@@ -26,11 +26,12 @@
 \setbeamerfont{bibliography entry note}{size=\small,%
                                         series=\normalfont}
 
-\title{CS-834 Intro to Information Retrieval\\First Presentation}
-\subtitle{Seminal and Cited Papers}
+\title{The Anatomy of a Large-Scale\\Hypertextual
+Web Search Engine\\ {\small Sergey Brin \& Lawrence Page}\\TextRank: Bringing Order into Texts\\\small{Rada Mihalcea \& Paul Tarau}}
+\subtitle{First Presentation}
 \date{September 15, 2016}
 \author{Plinio H. Vargas}
-\institute{Old Dominion University}
+\institute{Old Dominion University\\Intro to Information Retrieval\\CS734/834}
 \titlegraphic{\hfill\includegraphics[height=2.5cm]{images/logo}}
 
 \begin{document}
@@ -54,15 +55,6 @@
 %          Explaining Google PageRanking
 %---------------------------------------------
 \section{Google PageRanking}
-\begin{frame}{PageRank Calculation}
-  \begin{equation*}
-	PR(A) = (1-d) + d \left(\frac{PR(T_1)}{C(T_1)} + \cdots + \frac{PR(T_n)}{C(T_n)}\right) \cite{brin1998}
-  \end{equation*}
-  
-  \begin{equation*}
-    S(V_i) = (1 - d) + d * \sum_{j\in In(V_i)} \frac{1}{\lvert Out(V_j)\rvert}S(V_j)\cite{mihalcea2004textrank}
-  \end{equation*}
-\end{frame}
 %---------------------------------------------
 %          Figure: Three-Web-Pages
 %---------------------------------------------
@@ -114,11 +106,20 @@ After few more iterations:
 	\end{align*}
 \end{frame}
 }
-\section{TextRank}
-
+\begin{frame}{PageRank Calculation}
+  \begin{equation*}
+	PR(A) = (1-d) + d \left(\frac{PR(T_1)}{C(T_1)} + \cdots + \frac{PR(T_n)}{C(T_n)}\right) \cite{brin1998}
+  \end{equation*}
+  
+  \begin{equation*}
+    S(V_i) = (1 - d) + d * \sum_{j\in In(V_i)} \frac{1}{\lvert Out(V_j)\rvert}S(V_j)\cite{mihalcea2004textrank}
+  \end{equation*}
+\end{frame}
 %---------------------------------------------
 %          TextRank
 %---------------------------------------------
+
+\section{TextRank}
 \begin{frame}{TextRank}
 A graph-based ranking algorithm of natural language texts with the purpose of:
   \begin{itemize}[<+- | alert@+>]
