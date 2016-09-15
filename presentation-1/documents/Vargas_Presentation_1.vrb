@@ -1,0 +1,31 @@
+\frametitle{Keyword Extraction Results}
+\begin{table}
+\begin{center}
+\tiny
+\label{tab:hulth}
+\caption{\tiny Results for automatic keyword extraction using TextRank or supervised learning (Hulth, 2003)}
+\begin{tabular}{l c c c c c c c}
+\toprule
+& \multicolumn{2}{c}{Assigned} & \multicolumn{2}{c}{Correct}\\
+\cline{2-5}
+Method & Total & Mean & Total & Mean & Precision & Recall & F-measure\\
+\midrule
+\\
+TextRank\\
+\hline
+Undirected, Co-occ.window=2 & 6,784 & 13.7 & 2,116 & 4.2 & \emph{\textbf{31.2}} & 43.1 & \emph{\textbf{36.2}}\\
+Undirected, Co-occ.window=3 & 6,715 & 13.4 & 1,897 & 3.8 & 28.2 & 38.6 & 32.6\\
+Undirected, Co-occ.window=5 & 6,558 & 13.1 & 1,851 & 3.7 & 28.2 & 37.7 & 32.2\\
+Undirected, Co-occ.window=10 & 6,570 & 13.1 & 1,846 & 3.7 & 28.1 & 37.6 & 32.2\\
+Directed, forward, Co-occ.window=2 & 6,662 & 13.3 & 2,081 & 4.1 & 31.2 & 42.3 & 35.9\\
+Directed, backward, Co-occ.window=2 & 6,636 & 13.3 & 2,082 & 4.1 & 31.2 & 42.3 & 35.9\\
+\\
+Hulth (2003)\\
+\hline
+Ngram with tag & 7,815 & 15.6 & 1,973 & 3.9 & 25.2 & \emph{\textbf{51.7}} & 33.9\\
+NP-chunks with tag & 4,788 & 9.6 & 1,421 & 2.8 & 29.7 & 37.2 & 33.0\\
+Pattern with tag & 7,012 & 14.0 & 1,523 & 3.1 & 21.7 & 39.9 & 28.1\\
+\bottomrule
+\end{tabular}
+\end{center}
+\end{table}

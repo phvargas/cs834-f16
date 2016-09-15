@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{brin1998}
+{\sc S.~Brin and L.~Page}, {\em The anatomy of a large-scale hypertextual web
+  search engine}, Computer Networks and ISDN Systems, 30 (1998),
+  pp.~107–--117.
+
+\bibitem{hulth2003improved}
+{\sc A.~Hulth}, {\em Improved automatic keyword extraction given more
+  linguistic knowledge}, in Proceedings of the 2003 conference on Empirical
+  methods in natural language processing, Association for Computational
+  Linguistics, 2003, pp.~216--223.
+
+\bibitem{mihalcea2004textrank}
+{\sc R.~Mihalcea and P.~Tarau}, {\em Textrank: Bringing order into texts},
+  Barcelona, Spain, 2004, Association for Computational Linguistics,
+  pp.~404--401.
+\newblock http://www.aclweb.org/anthology/W04-3252.
+
+\bibitem{CroftMetzlerStrohman}
+{\sc T.~S. W.B.~Croft, D.~Metzler}, {\em Search Engine Information Retrieval in
+  Practice}, Pearson Education, 2015.
+
+\end{thebibliography}
