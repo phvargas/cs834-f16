@@ -552,8 +552,8 @@ Suppose that, in an effort to crawl web pages faster, you set up two crawling
 machines with different starting seed URLs. Is this an effective strategy for
 distributed crawling? Why or why not?\\
 
-Yes, this is an effective strategy. If we consider that both machines have the same starting URLs,the probability of trying to reach to the same links will increase, since neighboring nodes most likely will have similar links inter-connected. Looking at figure \ref{fig:web-crawler} we can see that nodes B and C have a closer relationship to the adjacent nodes thank node A.\\
-Then, the further apart they are (in terms of similarity) less is the change of pointing to the same link. In the case of our two machine having a different staring seed URL will decreasing the possibility of crawling the same link sooner than if they started at the same initial point, making the propose approach more effective.
+Yes, this is an effective strategy. If we consider that both machines have the same starting URLs, the probability of trying to reach to the same links will increase, since neighboring nodes most likely will have similar links inter-connected. Looking at figure \ref{fig:web-crawler}, we can see that nodes B and C have a closer relationship to the adjacent nodes than node A.\\
+Then, the further apart they are (in terms of similarity), there would be a less likelihood of them pointing to the same link. In case that our two machines have a different staring seed URL, it will decrease the possibility of crawling the same link sooner than if they started at the same initial point, making the proposed approach more effective.
 
 \begin{figure}[h]\caption{Web-crawler} \label{fig:web-crawler}
 	\center
