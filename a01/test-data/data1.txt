@@ -1,0 +1,16 @@
+
+binascii.b2a_base64(data)
+
+    Convert binary data to a line of ASCII characters in base64 coding. The return value is the converted line, including a newline char. The newline is added because the original use case for this function was to feed it a series of 57 byte input lines to get output lines that conform to the MIME-base64 standard. Otherwise the output conforms to RFC 3548.
+
+binascii.a2b_qp(data, header=False)
+
+    Convert a block of quoted-printable data back to binary and return the binary data. More than one line may be passed at a time. If the optional argument header is present and true, underscores will be decoded as spaces.
+
+binascii.b2a_qp(data, quotetabs=False, istext=True, header=False)
+
+    Convert binary data to a line(s) of ASCII characters in quoted-printable encoding. The return value is the converted line(s). If the optional argument quotetabs is present and true, all tabs and spaces will be encoded. If the optional argument istext is present and true, newlines are not encoded but trailing whitespace will be encoded. If the optional argument header is present and true, spaces will be encoded as underscores per RFC1522. If the optional argument header is present and false, newline characters will be encoded as well; otherwise linefeed conversion might corrupt the binary data stream.
+
+binascii.a2b_hqx(string)
+
+    Convert binhex4 formatted ASCII data to binary, without doing RLE-decompression. The string should contain a complete number of binary bytes, or (in case of the last portion of the binhex4 data) have the remaining bits zero.

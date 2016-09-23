@@ -1,0 +1,78 @@
+Starting Time: Thu,  Sep 22, 2016 at 05:14:36
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>http://www.example.com/documents/cs834_pvargas_hw1.aux</loc>
+  <lastmod>2016-09-20</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/cs834_pvargas_hw1.lof</loc>
+  <lastmod>2016-09-20</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/cs834_pvargas_hw1.log</loc>
+  <lastmod>2016-09-20</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/cs834_pvargas_hw1.lol</loc>
+  <lastmod>2016-09-20</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/cs834_pvargas_hw1.out</loc>
+  <lastmod>2016-09-20</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/cs834_pvargas_hw1.pdf</loc>
+  <lastmod>2016-09-20</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/cs834_pvargas_hw1.synctex.gz</loc>
+  <lastmod>2016-09-20</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/cs834_pvargas_hw1.tex</loc>
+  <lastmod>2016-09-20</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/cs834_pvargas_hw1.toc</loc>
+  <lastmod>2016-09-20</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/images/blogclust.jpg</loc>
+  <lastmod>2016-09-19</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/images/blogclustP5.jpg</loc>
+  <lastmod>2016-09-19</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/images/blogs2d.jpg</loc>
+  <lastmod>2016-09-19</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/images/Thumbs.db</loc>
+  <lastmod>2016-09-19</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.example.com/documents/table-1.tex</loc>
+  <lastmod>2016-09-19</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
+
+End Time:  Thu,  Sep 22, 2016 at 05:14:36
+Execution Time: 0.05 seconds
