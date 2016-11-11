@@ -1,0 +1,2177 @@
+
+a - ['a']
+
+aa - ['aa', 'aas']
+	 (aa, aas) -- dice-coef:0.0000
+
+aaa - ['aaa', 'aaas']
+	 (aaa, aaas) -- dice-coef:0.0000
+
+aachen - ['aachen']
+
+aah - ['aah']
+
+aalborg - ['aalborg']
+
+aar - ['aar']
+
+aardvark - ['aardvark']
+
+aarhus - ['aarhus']
+
+aaron - ['aaron']
+
+ab - ['ab', 'abs']
+	 (ab, abs) -- dice-coef:0.0000
+
+aba - ['aba', "aba's"]
+	 (aba, aba's) -- dice-coef:0.2857
+
+aback - ['aback']
+
+abacus - ['abacus']
+
+abaft - ['abaft']
+
+abandon - ['abandon', 'abandoned', 'abandoning', 'abandonment']
+	 (abandon, abandoned) -- dice-coef:0.0968
+	 (abandon, abandoning) -- dice-coef:0.0000
+	 (abandon, abandonment) -- dice-coef:0.0714
+	 (abandoned, abandoning) -- dice-coef:0.0531
+	 (abandoned, abandonment) -- dice-coef:0.0526
+	 (abandoning, abandonment) -- dice-coef:0.0000
+
+abaya - ['abaya']
+
+abb - ['abbe', 'abbs']
+	 (abbe, abbs) -- dice-coef:0.0000
+
+abbess - ['abbess']
+
+abbey - ['abbey', "abbey's", 'abbeys']
+	 (abbey, abbey's) -- dice-coef:0.0909
+	 (abbey, abbeys) -- dice-coef:0.0909
+	 (abbey's, abbeys) -- dice-coef:0.0000
+
+abbot - ['abbot', 'abbots']
+	 (abbot, abbots) -- dice-coef:0.1818
+
+abbrevi - ['abbreviated', 'abbreviation', 'abbreviations']
+	 (abbreviated, abbreviation) -- dice-coef:0.0000
+	 (abbreviated, abbreviations) -- dice-coef:0.0667
+	 (abbreviation, abbreviations) -- dice-coef:0.1481
+
+abc - ['abc', "abc's"]
+	 (abc, abc's) -- dice-coef:0.0882
+
+abdic - ['abdicate', 'abdicating', 'abdication']
+	 (abdicate, abdicating) -- dice-coef:0.0000
+	 (abdicate, abdication) -- dice-coef:0.0000
+	 (abdicating, abdication) -- dice-coef:0.0000
+
+abdomen - ['abdomen']
+
+abdomin - ['abdominal']
+
+abduct - ['abduct', 'abducted', 'abduction', 'abductions']
+	 (abduct, abducted) -- dice-coef:0.0000
+	 (abduct, abduction) -- dice-coef:0.0000
+	 (abduct, abductions) -- dice-coef:0.0000
+	 (abducted, abduction) -- dice-coef:0.2105
+	 (abducted, abductions) -- dice-coef:0.3636
+	 (abduction, abductions) -- dice-coef:0.3333
+
+abductor - ['abductor', 'abductors']
+	 (abductor, abductors) -- dice-coef:0.0000
+
+abe - ['abed']
+
+abel - ['abel']
+
+aberdar - ['aberdare']
+
+aberdeen - ['aberdeen']
+
+aberr - ['aberration']
+
+abid - ['abide', 'abiding']
+	 (abide, abiding) -- dice-coef:0.0000
+
+abilen - ['abilene']
+
+abil - ['abilities', 'ability']
+	 (abilities, ability) -- dice-coef:0.2157
+
+abkhaz - ['abkhaz']
+
+abkhazia - ['abkhazia']
+
+abl - ['able']
+
+able-bodi - ['able-bodied']
+
+ableism - ['ableism']
+
+abli - ['ably']
+
+abnorm - ['abnormal', 'abnormalities', 'abnormality']
+	 (abnormal, abnormalities) -- dice-coef:0.0000
+	 (abnormal, abnormality) -- dice-coef:0.0000
+	 (abnormalities, abnormality) -- dice-coef:0.0000
+
+aboard - ['aboard']
+
+abolish - ['abolish', 'abolished', 'abolishing']
+	 (abolish, abolished) -- dice-coef:0.0000
+	 (abolish, abolishing) -- dice-coef:0.0000
+	 (abolished, abolishing) -- dice-coef:0.0000
+
+abolit - ['abolition']
+
+abolition - ['abolitionism']
+
+abolitionist - ['abolitionist']
+
+abomin - ['abominable', 'abomination', 'abominations']
+	 (abominable, abomination) -- dice-coef:0.0000
+	 (abominable, abominations) -- dice-coef:0.0000
+	 (abomination, abominations) -- dice-coef:0.4000
+
+aborigin - ['aboriginal', 'aborigines']
+	 (aboriginal, aborigines) -- dice-coef:0.1818
+
+abort - ['aborted', 'abortion']
+	 (aborted, abortion) -- dice-coef:0.0000
+
+abound - ['abound']
+
+about - ['about']
+
+abov - ['above']
+
+abraham - ['abraham']
+
+abras - ['abrasive']
+
+abridg - ['abridged', 'abridgement', 'abridgment']
+	 (abridged, abridgement) -- dice-coef:0.2222
+	 (abridged, abridgment) -- dice-coef:0.0000
+	 (abridgement, abridgment) -- dice-coef:0.5000
+
+abroad - ['abroad']
+
+abrog - ['abrogated']
+
+abrupt - ['abrupt', 'abruptly']
+	 (abrupt, abruptly) -- dice-coef:0.1250
+
+abruzzi - ['abruzzi']
+
+abscond - ['absconded']
+
+absenc - ['absence', 'absences']
+	 (absence, absences) -- dice-coef:0.0000
+
+absent - ['absent']
+
+absolut - ['absolute', 'absolutely', 'absolutes', 'absolution', 'absolutism']
+	 (absolute, absolutely) -- dice-coef:0.0769
+	 (absolute, absolutes) -- dice-coef:0.0000
+	 (absolute, absolution) -- dice-coef:0.0312
+	 (absolute, absolutism) -- dice-coef:0.0000
+	 (absolutely, absolutes) -- dice-coef:0.0000
+	 (absolutely, absolution) -- dice-coef:0.1111
+	 (absolutely, absolutism) -- dice-coef:0.0000
+	 (absolutes, absolution) -- dice-coef:0.0000
+	 (absolutes, absolutism) -- dice-coef:0.0000
+	 (absolution, absolutism) -- dice-coef:0.0000
+
+absolv - ['absolve', 'absolved']
+	 (absolve, absolved) -- dice-coef:0.4000
+
+absorb - ['absorb', 'absorbed', 'absorbency', 'absorbent', 'absorbing', 'absorbs']
+	 (absorb, absorbed) -- dice-coef:0.0000
+	 (absorb, absorbency) -- dice-coef:0.0000
+	 (absorb, absorbent) -- dice-coef:0.0000
+	 (absorb, absorbing) -- dice-coef:0.0000
+	 (absorb, absorbs) -- dice-coef:0.0000
+	 (absorbed, absorbency) -- dice-coef:0.0000
+	 (absorbed, absorbent) -- dice-coef:0.0000
+	 (absorbed, absorbing) -- dice-coef:0.1143
+	 (absorbed, absorbs) -- dice-coef:0.0690
+	 (absorbency, absorbent) -- dice-coef:0.0000
+	 (absorbency, absorbing) -- dice-coef:0.0000
+	 (absorbency, absorbs) -- dice-coef:0.0000
+	 (absorbent, absorbing) -- dice-coef:0.0000
+	 (absorbent, absorbs) -- dice-coef:0.0000
+	 (absorbing, absorbs) -- dice-coef:0.1250
+
+absorpt - ['absorption']
+
+abstent - ['abstentions']
+
+abstin - ['abstinence']
+
+abstract - ['abstract', 'abstraction', 'abstractions']
+	 (abstract, abstraction) -- dice-coef:0.1224
+	 (abstract, abstractions) -- dice-coef:0.0465
+	 (abstraction, abstractions) -- dice-coef:0.2500
+
+absurd - ['absurd', 'absurdity']
+	 (absurd, absurdity) -- dice-coef:0.2000
+
+abuja - ['abuja']
+
+abund - ['abundance', 'abundant', 'abundantly']
+	 (abundance, abundant) -- dice-coef:0.0833
+	 (abundance, abundantly) -- dice-coef:0.1667
+	 (abundant, abundantly) -- dice-coef:0.0000
+
+abus - ['abuse', 'abused', 'abusers', 'abuses', 'abusing', 'abusive']
+	 (abuse, abused) -- dice-coef:0.0417
+	 (abuse, abusers) -- dice-coef:0.0455
+	 (abuse, abuses) -- dice-coef:0.0400
+	 (abuse, abusing) -- dice-coef:0.0000
+	 (abuse, abusive) -- dice-coef:0.0426
+	 (abused, abusers) -- dice-coef:0.0000
+	 (abused, abuses) -- dice-coef:0.0000
+	 (abused, abusing) -- dice-coef:0.0000
+	 (abused, abusive) -- dice-coef:0.0000
+	 (abusers, abuses) -- dice-coef:0.0000
+	 (abusers, abusing) -- dice-coef:0.0000
+	 (abusers, abusive) -- dice-coef:0.0000
+	 (abuses, abusing) -- dice-coef:0.0000
+	 (abuses, abusive) -- dice-coef:0.0000
+	 (abusing, abusive) -- dice-coef:0.0000
+
+abutilon - ['abutilon']
+
+abut - ['abutting']
+
+abydo - ['abydos']
+
+abyss - ['abyss', 'abyssal']
+	 (abyss, abyssal) -- dice-coef:0.0000
+
+abyssinian - ['abyssinian', 'abyssinians']
+	 (abyssinian, abyssinians) -- dice-coef:0.0000
+
+ac - ['ac', 'acs']
+	 (ac, acs) -- dice-coef:0.0000
+
+acacia - ['acacia']
+
+academ - ['academe', 'academic', 'academically', 'academics']
+	 (academe, academic) -- dice-coef:0.0000
+	 (academe, academically) -- dice-coef:0.0000
+	 (academe, academics) -- dice-coef:0.0000
+	 (academic, academically) -- dice-coef:0.0103
+	 (academic, academics) -- dice-coef:0.1818
+	 (academically, academics) -- dice-coef:0.0351
+
+academia - ['academia']
+
+academician - ['academician', 'academicians']
+	 (academician, academicians) -- dice-coef:0.5000
+
+academi - ['academies', 'academy', "academy's"]
+	 (academies, academy) -- dice-coef:0.0515
+	 (academies, academy's) -- dice-coef:0.0000
+	 (academy, academy's) -- dice-coef:0.0264
+
+acadia - ['acadia']
+
+acanthacea - ['acanthaceae']
+
+acapulco - ['acapulco']
+
+acari - ['acari']
+
+acc - ['acc']
+
+acceler - ['accelerate', 'accelerated', 'accelerates', 'accelerating', 'acceleration', 'accelerations', 'accelerator', 'accelerators']
+	 (accelerate, accelerated) -- dice-coef:0.0000
+	 (accelerate, accelerates) -- dice-coef:0.2000
+	 (accelerate, accelerating) -- dice-coef:0.0000
+	 (accelerate, acceleration) -- dice-coef:0.2353
+	 (accelerate, accelerations) -- dice-coef:0.4444
+	 (accelerate, accelerator) -- dice-coef:0.0000
+	 (accelerate, accelerators) -- dice-coef:0.0000
+	 (accelerated, accelerates) -- dice-coef:0.0000
+	 (accelerated, accelerating) -- dice-coef:0.0000
+	 (accelerated, acceleration) -- dice-coef:0.1111
+	 (accelerated, accelerations) -- dice-coef:0.0000
+	 (accelerated, accelerator) -- dice-coef:0.0000
+	 (accelerated, accelerators) -- dice-coef:0.0000
+	 (accelerates, accelerating) -- dice-coef:0.0000
+	 (accelerates, acceleration) -- dice-coef:0.1333
+	 (accelerates, accelerations) -- dice-coef:0.5714
+	 (accelerates, accelerator) -- dice-coef:0.0000
+	 (accelerates, accelerators) -- dice-coef:0.0000
+	 (accelerating, acceleration) -- dice-coef:0.1429
+	 (accelerating, accelerations) -- dice-coef:0.0000
+	 (accelerating, accelerator) -- dice-coef:0.2500
+	 (accelerating, accelerators) -- dice-coef:0.2500
+	 (acceleration, accelerations) -- dice-coef:0.2857
+	 (acceleration, accelerator) -- dice-coef:0.0000
+	 (acceleration, accelerators) -- dice-coef:0.0000
+	 (accelerations, accelerator) -- dice-coef:0.0000
+	 (accelerations, accelerators) -- dice-coef:0.0000
+	 (accelerator, accelerators) -- dice-coef:0.4000
+
+accent - ['accent', 'accented', 'accents']
+	 (accent, accented) -- dice-coef:0.1053
+	 (accent, accents) -- dice-coef:0.0000
+	 (accented, accents) -- dice-coef:0.0000
+
+accentu - ['accentuated']
+
+accept - ['accept', 'acceptable', 'acceptance', 'accepted', 'accepting', 'accepts']
+	 (accept, acceptable) -- dice-coef:0.0930
+	 (accept, acceptance) -- dice-coef:0.1053
+	 (accept, accepted) -- dice-coef:0.1744
+	 (accept, accepting) -- dice-coef:0.0706
+	 (accept, accepts) -- dice-coef:0.0548
+	 (acceptable, acceptance) -- dice-coef:0.0702
+	 (acceptable, accepted) -- dice-coef:0.0597
+	 (acceptable, accepting) -- dice-coef:0.0000
+	 (acceptable, accepts) -- dice-coef:0.0571
+	 (acceptance, accepted) -- dice-coef:0.1538
+	 (acceptance, accepting) -- dice-coef:0.0357
+	 (acceptance, accepts) -- dice-coef:0.0455
+	 (accepted, accepting) -- dice-coef:0.0150
+	 (accepted, accepts) -- dice-coef:0.0331
+	 (accepting, accepts) -- dice-coef:0.0000
+
+acceptor - ['acceptor']
+
+access - ['access', 'accessed', 'accessibility', 'accessible', 'accessing', 'accession', 'accessioned', 'accessions']
+	 (access, accessed) -- dice-coef:0.1311
+	 (access, accessibility) -- dice-coef:0.0809
+	 (access, accessible) -- dice-coef:0.1315
+	 (access, accessing) -- dice-coef:0.0473
+	 (access, accession) -- dice-coef:0.0222
+	 (access, accessioned) -- dice-coef:0.0000
+	 (access, accessions) -- dice-coef:0.0000
+	 (accessed, accessibility) -- dice-coef:0.0127
+	 (accessed, accessible) -- dice-coef:0.0909
+	 (accessed, accessing) -- dice-coef:0.0130
+	 (accessed, accession) -- dice-coef:0.0121
+	 (accessed, accessioned) -- dice-coef:0.0000
+	 (accessed, accessions) -- dice-coef:0.0000
+	 (accessibility, accessible) -- dice-coef:0.0606
+	 (accessibility, accessing) -- dice-coef:0.0000
+	 (accessibility, accession) -- dice-coef:0.0000
+	 (accessibility, accessioned) -- dice-coef:0.0000
+	 (accessibility, accessions) -- dice-coef:0.0000
+	 (accessible, accessing) -- dice-coef:0.0323
+	 (accessible, accession) -- dice-coef:0.0000
+	 (accessible, accessioned) -- dice-coef:0.0000
+	 (accessible, accessions) -- dice-coef:0.0000
+	 (accessing, accession) -- dice-coef:0.0690
+	 (accessing, accessioned) -- dice-coef:0.0000
+	 (accessing, accessions) -- dice-coef:0.0000
+	 (accession, accessioned) -- dice-coef:0.0000
+	 (accession, accessions) -- dice-coef:0.0000
+	 (accessioned, accessions) -- dice-coef:0.0000
+
+accessori - ['accessories', 'accessory']
+	 (accessories, accessory) -- dice-coef:0.0000
+
+accid - ['accident', 'accidents']
+	 (accident, accidents) -- dice-coef:0.1017
+
+accident - ['accidental', 'accidentally']
+	 (accidental, accidentally) -- dice-coef:0.0615
+
+accipit - ['accipiter']
+
+accipitrida - ['accipitridae']
+
+acclaim - ['acclaim', 'acclaimed']
+	 (acclaim, acclaimed) -- dice-coef:0.1200
+
+acclam - ['acclamation']
+
+accolad - ['accolades']
+
+accommod - ['accommodate', 'accommodated', 'accommodating', 'accommodation', 'accommodations']
+	 (accommodate, accommodated) -- dice-coef:0.0930
+	 (accommodate, accommodating) -- dice-coef:0.0426
+	 (accommodate, accommodation) -- dice-coef:0.1333
+	 (accommodate, accommodations) -- dice-coef:0.0000
+	 (accommodated, accommodating) -- dice-coef:0.2000
+	 (accommodated, accommodation) -- dice-coef:0.0870
+	 (accommodated, accommodations) -- dice-coef:0.0000
+	 (accommodating, accommodation) -- dice-coef:0.0741
+	 (accommodating, accommodations) -- dice-coef:0.0000
+	 (accommodation, accommodations) -- dice-coef:0.0000
+
+accompani - ['accompanied', 'accompanies', 'accompaniment', 'accompaniments', 'accompany', 'accompanying']
+	 (accompanied, accompanies) -- dice-coef:0.0000
+	 (accompanied, accompaniment) -- dice-coef:0.0460
+	 (accompanied, accompaniments) -- dice-coef:0.0000
+	 (accompanied, accompany) -- dice-coef:0.0860
+	 (accompanied, accompanying) -- dice-coef:0.0202
+	 (accompanies, accompaniment) -- dice-coef:0.0000
+	 (accompanies, accompaniments) -- dice-coef:0.0000
+	 (accompanies, accompany) -- dice-coef:0.0000
+	 (accompanies, accompanying) -- dice-coef:0.0000
+	 (accompaniment, accompaniments) -- dice-coef:0.1667
+	 (accompaniment, accompany) -- dice-coef:0.0769
+	 (accompaniment, accompanying) -- dice-coef:0.1250
+	 (accompaniments, accompany) -- dice-coef:0.0000
+	 (accompaniments, accompanying) -- dice-coef:0.0000
+	 (accompany, accompanying) -- dice-coef:0.1053
+
+accompanist - ['accompanist']
+
+accomplic - ['accomplice', 'accomplices']
+	 (accomplice, accomplices) -- dice-coef:0.0000
+
+accomplish - ['accomplish', 'accomplished', 'accomplishment', 'accomplishments']
+	 (accomplish, accomplished) -- dice-coef:0.0000
+	 (accomplish, accomplishment) -- dice-coef:0.0000
+	 (accomplish, accomplishments) -- dice-coef:0.0000
+	 (accomplished, accomplishment) -- dice-coef:0.0500
+	 (accomplished, accomplishments) -- dice-coef:0.0625
+	 (accomplishment, accomplishments) -- dice-coef:0.0588
+
+accord - ['accord', 'accordance', 'accorded', 'according', 'accordingly', 'accords']
+	 (accord, accordance) -- dice-coef:0.0000
+	 (accord, accorded) -- dice-coef:0.0000
+	 (accord, according) -- dice-coef:0.0299
+	 (accord, accordingly) -- dice-coef:0.0000
+	 (accord, accords) -- dice-coef:0.1250
+	 (accordance, accorded) -- dice-coef:0.0000
+	 (accordance, according) -- dice-coef:0.0250
+	 (accordance, accordingly) -- dice-coef:0.0000
+	 (accordance, accords) -- dice-coef:0.0000
+	 (accorded, according) -- dice-coef:0.0044
+	 (accorded, accordingly) -- dice-coef:0.0000
+	 (accorded, accords) -- dice-coef:0.0000
+	 (according, accordingly) -- dice-coef:0.0249
+	 (according, accords) -- dice-coef:0.0044
+	 (accordingly, accords) -- dice-coef:0.0000
+
+accordion - ['accordion']
+
+account - ['account', 'accountability', 'accountable', 'accountancy', 'accountant', 'accountants', 'accounted', 'accounting', 'accounts']
+	 (account, accountability) -- dice-coef:0.0000
+	 (account, accountable) -- dice-coef:0.0000
+	 (account, accountancy) -- dice-coef:0.0156
+	 (account, accountant) -- dice-coef:0.0000
+	 (account, accountants) -- dice-coef:0.0308
+	 (account, accounted) -- dice-coef:0.0000
+	 (account, accounting) -- dice-coef:0.0533
+	 (account, accounts) -- dice-coef:0.1735
+	 (accountability, accountable) -- dice-coef:0.1000
+	 (accountability, accountancy) -- dice-coef:0.0000
+	 (accountability, accountant) -- dice-coef:0.0000
+	 (accountability, accountants) -- dice-coef:0.0000
+	 (accountability, accounted) -- dice-coef:0.0000
+	 (accountability, accounting) -- dice-coef:0.0000
+	 (accountability, accounts) -- dice-coef:0.0000
+	 (accountable, accountancy) -- dice-coef:0.0000
+	 (accountable, accountant) -- dice-coef:0.0000
+	 (accountable, accountants) -- dice-coef:0.0000
+	 (accountable, accounted) -- dice-coef:0.0000
+	 (accountable, accounting) -- dice-coef:0.0000
+	 (accountable, accounts) -- dice-coef:0.0250
+	 (accountancy, accountant) -- dice-coef:0.1429
+	 (accountancy, accountants) -- dice-coef:0.4000
+	 (accountancy, accounted) -- dice-coef:0.0000
+	 (accountancy, accounting) -- dice-coef:0.1333
+	 (accountancy, accounts) -- dice-coef:0.0000
+	 (accountant, accountants) -- dice-coef:0.3750
+	 (accountant, accounted) -- dice-coef:0.0000
+	 (accountant, accounting) -- dice-coef:0.1111
+	 (accountant, accounts) -- dice-coef:0.0000
+	 (accountants, accounted) -- dice-coef:0.0000
+	 (accountants, accounting) -- dice-coef:0.1250
+	 (accountants, accounts) -- dice-coef:0.0000
+	 (accounted, accounting) -- dice-coef:0.0625
+	 (accounted, accounts) -- dice-coef:0.0513
+	 (accounting, accounts) -- dice-coef:0.0816
+
+accredit - ['accreditation', 'accredited', 'accrediting']
+	 (accreditation, accredited) -- dice-coef:0.3226
+	 (accreditation, accrediting) -- dice-coef:0.1538
+	 (accredited, accrediting) -- dice-coef:0.1818
+
+accret - ['accrete', 'accreted', 'accretion']
+	 (accrete, accreted) -- dice-coef:1.0000
+	 (accrete, accretion) -- dice-coef:0.6667
+	 (accreted, accretion) -- dice-coef:0.6667
+
+accumul - ['accumulate', 'accumulated', 'accumulates', 'accumulating', 'accumulation', 'accumulations', 'accumulator']
+	 (accumulate, accumulated) -- dice-coef:0.1818
+	 (accumulate, accumulates) -- dice-coef:0.0000
+	 (accumulate, accumulating) -- dice-coef:0.0000
+	 (accumulate, accumulation) -- dice-coef:0.0000
+	 (accumulate, accumulations) -- dice-coef:0.0000
+	 (accumulate, accumulator) -- dice-coef:0.0000
+	 (accumulated, accumulates) -- dice-coef:0.0000
+	 (accumulated, accumulating) -- dice-coef:0.0000
+	 (accumulated, accumulation) -- dice-coef:0.0000
+	 (accumulated, accumulations) -- dice-coef:0.0000
+	 (accumulated, accumulator) -- dice-coef:0.0000
+	 (accumulates, accumulating) -- dice-coef:0.0000
+	 (accumulates, accumulation) -- dice-coef:0.0000
+	 (accumulates, accumulations) -- dice-coef:0.0000
+	 (accumulates, accumulator) -- dice-coef:0.0000
+	 (accumulating, accumulation) -- dice-coef:0.0000
+	 (accumulating, accumulations) -- dice-coef:0.0000
+	 (accumulating, accumulator) -- dice-coef:0.0000
+	 (accumulation, accumulations) -- dice-coef:0.0000
+	 (accumulation, accumulator) -- dice-coef:0.0000
+	 (accumulations, accumulator) -- dice-coef:0.0000
+
+accuraci - ['accuracy']
+
+accur - ['accurate', 'accurately']
+	 (accurate, accurately) -- dice-coef:0.1429
+
+accurs - ['accursed']
+
+accus - ['accusation', 'accusations', 'accuse', 'accused', 'accuses', 'accusing']
+	 (accusation, accusations) -- dice-coef:0.0645
+	 (accusation, accuse) -- dice-coef:0.1429
+	 (accusation, accused) -- dice-coef:0.1159
+	 (accusation, accuses) -- dice-coef:0.0000
+	 (accusation, accusing) -- dice-coef:0.1111
+	 (accusations, accuse) -- dice-coef:0.0690
+	 (accusations, accused) -- dice-coef:0.2619
+	 (accusations, accuses) -- dice-coef:0.1333
+	 (accusations, accusing) -- dice-coef:0.0606
+	 (accuse, accused) -- dice-coef:0.0299
+	 (accuse, accuses) -- dice-coef:0.1538
+	 (accuse, accusing) -- dice-coef:0.0000
+	 (accused, accuses) -- dice-coef:0.0882
+	 (accused, accusing) -- dice-coef:0.1690
+	 (accuses, accusing) -- dice-coef:0.1176
+
+accustom - ['accustomed']
+
+ace - ['ace', 'aces']
+	 (ace, aces) -- dice-coef:0.0351
+
+acer - ['acer']
+
+acetaldehyd - ['acetaldehyde']
+
+acet - ['acetate', 'acetic']
+	 (acetate, acetic) -- dice-coef:0.0000
+
+achaea - ['achaea']
+
+ach - ['ache', 'aching']
+	 (ache, aching) -- dice-coef:0.0000
+
+acheson - ['acheson']
+
+achiev - ['achievable', 'achieve', 'achieved', 'achievement', 'achievements', 'achievers', 'achieves', 'achieving']
+	 (achievable, achieve) -- dice-coef:0.0000
+	 (achievable, achieved) -- dice-coef:0.0196
+	 (achievable, achievement) -- dice-coef:0.0000
+	 (achievable, achievements) -- dice-coef:0.0000
+	 (achievable, achievers) -- dice-coef:0.0000
+	 (achievable, achieves) -- dice-coef:0.0000
+	 (achievable, achieving) -- dice-coef:0.0000
+	 (achieve, achieved) -- dice-coef:0.1032
+	 (achieve, achievement) -- dice-coef:0.1064
+	 (achieve, achievements) -- dice-coef:0.0526
+	 (achieve, achievers) -- dice-coef:0.0000
+	 (achieve, achieves) -- dice-coef:0.0339
+	 (achieve, achieving) -- dice-coef:0.1647
+	 (achieved, achievement) -- dice-coef:0.0288
+	 (achieved, achievements) -- dice-coef:0.0881
+	 (achieved, achievers) -- dice-coef:0.0000
+	 (achieved, achieves) -- dice-coef:0.0000
+	 (achieved, achieving) -- dice-coef:0.0615
+	 (achievement, achievements) -- dice-coef:0.0816
+	 (achievement, achievers) -- dice-coef:0.0000
+	 (achievement, achieves) -- dice-coef:0.0000
+	 (achievement, achieving) -- dice-coef:0.0290
+	 (achievements, achievers) -- dice-coef:0.0000
+	 (achievements, achieves) -- dice-coef:0.0000
+	 (achievements, achieving) -- dice-coef:0.0225
+	 (achievers, achieves) -- dice-coef:0.0000
+	 (achievers, achieving) -- dice-coef:0.0000
+	 (achieves, achieving) -- dice-coef:0.0588
+
+achill - ['achilles']
+
+achromat - ['achromatic']
+
+acid - ['acid', 'acidic', 'acidity', 'acids']
+	 (acid, acidic) -- dice-coef:0.0896
+	 (acid, acidity) -- dice-coef:0.0317
+	 (acid, acids) -- dice-coef:0.2469
+	 (acidic, acidity) -- dice-coef:0.2500
+	 (acidic, acids) -- dice-coef:0.0769
+	 (acidity, acids) -- dice-coef:0.0909
+
+acidophilus - ['acidophilus']
+
+acknowledg - ['acknowledge', 'acknowledged', 'acknowledgement', 'acknowledges', 'acknowledging', 'acknowledgment']
+	 (acknowledge, acknowledged) -- dice-coef:0.0417
+	 (acknowledge, acknowledgement) -- dice-coef:0.0870
+	 (acknowledge, acknowledges) -- dice-coef:0.0870
+	 (acknowledge, acknowledging) -- dice-coef:0.0000
+	 (acknowledge, acknowledgment) -- dice-coef:0.0000
+	 (acknowledged, acknowledgement) -- dice-coef:0.0000
+	 (acknowledged, acknowledges) -- dice-coef:0.0606
+	 (acknowledged, acknowledging) -- dice-coef:0.0571
+	 (acknowledged, acknowledgment) -- dice-coef:0.0000
+	 (acknowledgement, acknowledges) -- dice-coef:0.0000
+	 (acknowledgement, acknowledging) -- dice-coef:0.0000
+	 (acknowledgement, acknowledgment) -- dice-coef:0.0000
+	 (acknowledges, acknowledging) -- dice-coef:0.0000
+	 (acknowledges, acknowledgment) -- dice-coef:0.0000
+	 (acknowledging, acknowledgment) -- dice-coef:0.0000
+
+acm - ['acme']
+
+acolyt - ['acolytes']
+
+aconcagua - ['aconcagua']
+
+acorn - ['acorn']
+
+acoust - ['acoustic', 'acoustical', 'acoustically', 'acoustics']
+	 (acoustic, acoustical) -- dice-coef:0.0800
+	 (acoustic, acoustically) -- dice-coef:0.0385
+	 (acoustic, acoustics) -- dice-coef:0.0400
+	 (acoustical, acoustically) -- dice-coef:0.3333
+	 (acoustical, acoustics) -- dice-coef:0.0000
+	 (acoustically, acoustics) -- dice-coef:0.0000
+
+acquaint - ['acquaintance', 'acquaintances', 'acquainted']
+	 (acquaintance, acquaintances) -- dice-coef:0.0000
+	 (acquaintance, acquainted) -- dice-coef:0.1250
+	 (acquaintances, acquainted) -- dice-coef:0.0000
+
+acquir - ['acquire', 'acquired', 'acquires', 'acquiring']
+	 (acquire, acquired) -- dice-coef:0.0448
+	 (acquire, acquires) -- dice-coef:0.0741
+	 (acquire, acquiring) -- dice-coef:0.1250
+	 (acquired, acquires) -- dice-coef:0.0504
+	 (acquired, acquiring) -- dice-coef:0.0484
+	 (acquires, acquiring) -- dice-coef:0.0000
+
+acquisit - ['acquisition', 'acquisitions']
+	 (acquisition, acquisitions) -- dice-coef:0.1951
+
+acquitt - ['acquittal']
+
+acquit - ['acquitted']
+
+acr - ['acre', 'acres']
+	 (acre, acres) -- dice-coef:0.1029
+
+acre-foot - ['acre-foot']
+
+acreag - ['acreage']
+
+acridida - ['acrididae']
+
+acridother - ['acridotheres']
+
+acrimoni - ['acrimonious']
+
+acrobat - ['acrobat', 'acrobatic']
+	 (acrobat, acrobatic) -- dice-coef:0.0000
+
+acrocephalus - ['acrocephalus']
+
+acronym - ['acronym', 'acronyms']
+	 (acronym, acronyms) -- dice-coef:0.0952
+
+across - ['across']
+
+acrylamid - ['acrylamide']
+
+acryl - ['acrylate', 'acrylic']
+	 (acrylate, acrylic) -- dice-coef:0.5000
+
+acrylonitril - ['acrylonitrile']
+
+act - ['act', 'acted', 'acting', 'acts']
+	 (act, acted) -- dice-coef:0.0664
+	 (act, acting) -- dice-coef:0.1029
+	 (act, acts) -- dice-coef:0.2569
+	 (acted, acting) -- dice-coef:0.0725
+	 (acted, acts) -- dice-coef:0.0220
+	 (acting, acts) -- dice-coef:0.0900
+
+actinomyc - ['actinomyces']
+
+action - ['action', 'actions']
+	 (action, actions) -- dice-coef:0.1853
+
+activ - ['activate', 'activated', 'activates', 'activating', 'activation', 'activator', 'active', 'actively', 'activism', 'activities', 'activity']
+	 (activate, activated) -- dice-coef:0.0714
+	 (activate, activates) -- dice-coef:0.0000
+	 (activate, activating) -- dice-coef:0.1250
+	 (activate, activation) -- dice-coef:0.1739
+	 (activate, activator) -- dice-coef:0.0000
+	 (activate, active) -- dice-coef:0.0130
+	 (activate, actively) -- dice-coef:0.0000
+	 (activate, activism) -- dice-coef:0.0000
+	 (activate, activities) -- dice-coef:0.0117
+	 (activate, activity) -- dice-coef:0.0462
+	 (activated, activates) -- dice-coef:0.0000
+	 (activated, activating) -- dice-coef:0.0625
+	 (activated, activation) -- dice-coef:0.3077
+	 (activated, activator) -- dice-coef:0.0000
+	 (activated, active) -- dice-coef:0.0372
+	 (activated, actively) -- dice-coef:0.0000
+	 (activated, activism) -- dice-coef:0.0000
+	 (activated, activities) -- dice-coef:0.0107
+	 (activated, activity) -- dice-coef:0.0685
+	 (activates, activating) -- dice-coef:0.1429
+	 (activates, activation) -- dice-coef:0.0952
+	 (activates, activator) -- dice-coef:0.3333
+	 (activates, active) -- dice-coef:0.0000
+	 (activates, actively) -- dice-coef:0.0000
+	 (activates, activism) -- dice-coef:0.0000
+	 (activates, activities) -- dice-coef:0.0000
+	 (activates, activity) -- dice-coef:0.0312
+	 (activating, activation) -- dice-coef:0.1481
+	 (activating, activator) -- dice-coef:0.1667
+	 (activating, active) -- dice-coef:0.0064
+	 (activating, actively) -- dice-coef:0.0000
+	 (activating, activism) -- dice-coef:0.0000
+	 (activating, activities) -- dice-coef:0.0229
+	 (activating, activity) -- dice-coef:0.0597
+	 (activation, activator) -- dice-coef:0.2105
+	 (activation, active) -- dice-coef:0.0126
+	 (activation, actively) -- dice-coef:0.0000
+	 (activation, activism) -- dice-coef:0.0000
+	 (activation, activities) -- dice-coef:0.0110
+	 (activation, activity) -- dice-coef:0.1135
+	 (activator, active) -- dice-coef:0.0000
+	 (activator, actively) -- dice-coef:0.0000
+	 (activator, activism) -- dice-coef:0.0000
+	 (activator, activities) -- dice-coef:0.0000
+	 (activator, activity) -- dice-coef:0.0317
+	 (active, actively) -- dice-coef:0.0480
+	 (active, activism) -- dice-coef:0.0319
+	 (active, activities) -- dice-coef:0.1416
+	 (active, activity) -- dice-coef:0.0894
+	 (actively, activism) -- dice-coef:0.1364
+	 (actively, activities) -- dice-coef:0.0711
+	 (actively, activity) -- dice-coef:0.0385
+	 (activism, activities) -- dice-coef:0.0452
+	 (activism, activity) -- dice-coef:0.0441
+	 (activities, activity) -- dice-coef:0.1799
+
+activist - ['activist', 'activists']
+	 (activist, activists) -- dice-coef:0.1600
+
+actor - ['actor', 'actors', "actor's"]
+	 (actor, actors) -- dice-coef:0.5087
+	 (actor, actor's) -- dice-coef:0.0571
+	 (actors, actor's) -- dice-coef:0.0667
+
+actress - ['actress', 'actresses']
+	 (actress, actresses) -- dice-coef:0.1074
+
+actual - ['actual', 'actuality', 'actualizing', 'actually']
+	 (actual, actuality) -- dice-coef:0.0000
+	 (actual, actualizing) -- dice-coef:0.0000
+	 (actual, actually) -- dice-coef:0.1620
+	 (actuality, actualizing) -- dice-coef:0.0000
+	 (actuality, actually) -- dice-coef:0.0107
+	 (actualizing, actually) -- dice-coef:0.0000
+
+acut - ['acute']
+
+ad - ['ad', 'added', 'adding', 'ads']
+	 (ad, added) -- dice-coef:0.1009
+	 (ad, adding) -- dice-coef:0.0357
+	 (ad, ads) -- dice-coef:0.0600
+	 (added, adding) -- dice-coef:0.1090
+	 (added, ads) -- dice-coef:0.0169
+	 (adding, ads) -- dice-coef:0.0042
+
+ada - ['ada']
+
+adagio - ['adagio']
+
+adam - ['adam', 'adamantly', 'adams', "adam's", "adams's"]
+	 (adam, adamantly) -- dice-coef:0.0131
+	 (adam, adams) -- dice-coef:0.0498
+	 (adam, adam's) -- dice-coef:0.0131
+	 (adam, adams's) -- dice-coef:0.0000
+	 (adamantly, adams) -- dice-coef:0.0000
+	 (adamantly, adam's) -- dice-coef:0.0000
+	 (adamantly, adams's) -- dice-coef:0.0000
+	 (adams, adam's) -- dice-coef:0.0000
+	 (adams, adams's) -- dice-coef:0.0435
+	 (adam's, adams's) -- dice-coef:0.0000
+
+adapt - ['adapt', 'adaptation', 'adaptations', 'adapted', 'adapter', 'adapters', 'adapting', 'adaptive']
+	 (adapt, adaptation) -- dice-coef:0.0323
+	 (adapt, adaptations) -- dice-coef:0.1026
+	 (adapt, adapted) -- dice-coef:0.0879
+	 (adapt, adapter) -- dice-coef:0.0000
+	 (adapt, adapters) -- dice-coef:0.0000
+	 (adapt, adapting) -- dice-coef:0.2000
+	 (adapt, adaptive) -- dice-coef:0.0000
+	 (adaptation, adaptations) -- dice-coef:0.1818
+	 (adaptation, adapted) -- dice-coef:0.2636
+	 (adaptation, adapter) -- dice-coef:0.0000
+	 (adaptation, adapters) -- dice-coef:0.0370
+	 (adaptation, adapting) -- dice-coef:0.0690
+	 (adaptation, adaptive) -- dice-coef:0.0339
+	 (adaptations, adapted) -- dice-coef:0.1887
+	 (adaptations, adapter) -- dice-coef:0.0000
+	 (adaptations, adapters) -- dice-coef:0.0000
+	 (adaptations, adapting) -- dice-coef:0.0000
+	 (adaptations, adaptive) -- dice-coef:0.0556
+	 (adapted, adapter) -- dice-coef:0.0000
+	 (adapted, adapters) -- dice-coef:0.0241
+	 (adapted, adapting) -- dice-coef:0.0460
+	 (adapted, adaptive) -- dice-coef:0.0227
+	 (adapter, adapters) -- dice-coef:0.4000
+	 (adapter, adapting) -- dice-coef:0.0000
+	 (adapter, adaptive) -- dice-coef:0.0000
+	 (adapters, adapting) -- dice-coef:0.0000
+	 (adapters, adaptive) -- dice-coef:0.0000
+	 (adapting, adaptive) -- dice-coef:0.1176
+
+adaptor - ['adaptor']
+
+adar - ['adar']
+
+add - ['add', 'adds']
+	 (add, adds) -- dice-coef:0.0619
+
+add-on - ['add-on']
+
+addendum - ['addendum']
+
+adder - ['adder']
+
+addict - ['addict', 'addicted', 'addiction']
+	 (addict, addicted) -- dice-coef:0.0000
+	 (addict, addiction) -- dice-coef:0.0741
+	 (addicted, addiction) -- dice-coef:0.1905
+
+addit - ['addition', 'additional', 'additionally', 'additions', 'additive', 'additives']
+	 (addition, additional) -- dice-coef:0.1815
+	 (addition, additionally) -- dice-coef:0.1080
+	 (addition, additions) -- dice-coef:0.0321
+	 (addition, additive) -- dice-coef:0.0066
+	 (addition, additives) -- dice-coef:0.0066
+	 (additional, additionally) -- dice-coef:0.0741
+	 (additional, additions) -- dice-coef:0.0129
+	 (additional, additive) -- dice-coef:0.0000
+	 (additional, additives) -- dice-coef:0.0132
+	 (additionally, additions) -- dice-coef:0.0588
+	 (additionally, additive) -- dice-coef:0.0351
+	 (additionally, additives) -- dice-coef:0.0333
+	 (additions, additive) -- dice-coef:0.0000
+	 (additions, additives) -- dice-coef:0.0000
+	 (additive, additives) -- dice-coef:0.0000
+
+address - ['address', 'addressed', 'addresses', 'addressing']
+	 (address, addressed) -- dice-coef:0.0779
+	 (address, addresses) -- dice-coef:0.1037
+	 (address, addressing) -- dice-coef:0.0902
+	 (addressed, addresses) -- dice-coef:0.0339
+	 (addressed, addressing) -- dice-coef:0.0000
+	 (addresses, addressing) -- dice-coef:0.2105
+
+adductor - ['adductor']
+
+ade - ['ade']
+
+adelaid - ['adelaide']
+
+adeli - ['adelie']
+
+aden - ['aden']
+
+adenosin - ['adenosine']
+
+adept - ['adept']
+
+adequ - ['adequate', 'adequately']
+	 (adequate, adequately) -- dice-coef:0.0000
+
+adhd - ['adhd']
+
+adher - ['adhere', 'adherence', 'adherent', 'adherents', 'adhering']
+	 (adhere, adherence) -- dice-coef:0.0000
+	 (adhere, adherent) -- dice-coef:0.0000
+	 (adhere, adherents) -- dice-coef:0.0000
+	 (adhere, adhering) -- dice-coef:0.0000
+	 (adherence, adherent) -- dice-coef:0.0000
+	 (adherence, adherents) -- dice-coef:0.2222
+	 (adherence, adhering) -- dice-coef:0.0000
+	 (adherent, adherents) -- dice-coef:0.0000
+	 (adherent, adhering) -- dice-coef:0.0000
+	 (adherents, adhering) -- dice-coef:0.1250
+
+adhes - ['adhesion', 'adhesive']
+	 (adhesion, adhesive) -- dice-coef:0.0000
+
+adianta - ['adianta']
+
+adig - ['adige']
+
+aditya - ['aditya']
+
+adjac - ['adjacent']
+
+adject - ['adjective', 'adjectives']
+	 (adjective, adjectives) -- dice-coef:0.0000
+
+adjoin - ['adjoining']
+
+adjourn - ['adjournment']
+
+adjunct - ['adjunct']
+
+adjust - ['adjust', 'adjustable', 'adjusted', 'adjusting', 'adjustment', 'adjustments']
+	 (adjust, adjustable) -- dice-coef:0.1176
+	 (adjust, adjusted) -- dice-coef:0.0000
+	 (adjust, adjusting) -- dice-coef:0.0000
+	 (adjust, adjustment) -- dice-coef:0.1818
+	 (adjust, adjustments) -- dice-coef:0.1111
+	 (adjustable, adjusted) -- dice-coef:0.1000
+	 (adjustable, adjusting) -- dice-coef:0.1333
+	 (adjustable, adjustment) -- dice-coef:0.2105
+	 (adjustable, adjustments) -- dice-coef:0.1333
+	 (adjusted, adjusting) -- dice-coef:0.1905
+	 (adjusted, adjustment) -- dice-coef:0.1600
+	 (adjusted, adjustments) -- dice-coef:0.0952
+	 (adjusting, adjustment) -- dice-coef:0.1000
+	 (adjusting, adjustments) -- dice-coef:0.1250
+	 (adjustment, adjustments) -- dice-coef:0.1000
+
+adjut - ['adjutant']
+
+administ - ['administer', 'administered', 'administering', 'administers']
+	 (administer, administered) -- dice-coef:0.1333
+	 (administer, administering) -- dice-coef:0.0000
+	 (administer, administers) -- dice-coef:0.0000
+	 (administered, administering) -- dice-coef:0.0000
+	 (administered, administers) -- dice-coef:0.0476
+	 (administering, administers) -- dice-coef:0.0000
+
+administr - ['administrate', 'administrated', 'administration', 'administrations', 'administrative', 'administratively', 'administrator', 'administrators']
+	 (administrate, administrated) -- dice-coef:0.3333
+	 (administrate, administration) -- dice-coef:0.0150
+	 (administrate, administrations) -- dice-coef:0.0000
+	 (administrate, administrative) -- dice-coef:0.0156
+	 (administrate, administratively) -- dice-coef:0.2222
+	 (administrate, administrator) -- dice-coef:0.0000
+	 (administrate, administrators) -- dice-coef:0.0000
+	 (administrated, administration) -- dice-coef:0.0223
+	 (administrated, administrations) -- dice-coef:0.0000
+	 (administrated, administrative) -- dice-coef:0.0308
+	 (administrated, administratively) -- dice-coef:0.0000
+	 (administrated, administrator) -- dice-coef:0.0000
+	 (administrated, administrators) -- dice-coef:0.0000
+	 (administration, administrations) -- dice-coef:0.0221
+	 (administration, administrative) -- dice-coef:0.1637
+	 (administration, administratively) -- dice-coef:0.0074
+	 (administration, administrator) -- dice-coef:0.0647
+	 (administration, administrators) -- dice-coef:0.0073
+	 (administrations, administrative) -- dice-coef:0.0000
+	 (administrations, administratively) -- dice-coef:0.0000
+	 (administrations, administrator) -- dice-coef:0.0392
+	 (administrations, administrators) -- dice-coef:0.0000
+	 (administrative, administratively) -- dice-coef:0.0451
+	 (administrative, administrator) -- dice-coef:0.1059
+	 (administrative, administrators) -- dice-coef:0.0147
+	 (administratively, administrator) -- dice-coef:0.0000
+	 (administratively, administrators) -- dice-coef:0.0000
+	 (administrator, administrators) -- dice-coef:0.0370
+
+admir - ['admirable', 'admiral', 'admirals', 'admiration', 'admire', 'admired', 'admirer', 'admirers', 'admires']
+	 (admirable, admiral) -- dice-coef:0.0000
+	 (admirable, admirals) -- dice-coef:0.0000
+	 (admirable, admiration) -- dice-coef:0.0000
+	 (admirable, admire) -- dice-coef:0.0000
+	 (admirable, admired) -- dice-coef:0.0000
+	 (admirable, admirer) -- dice-coef:0.0000
+	 (admirable, admirers) -- dice-coef:0.0000
+	 (admirable, admires) -- dice-coef:0.0000
+	 (admiral, admirals) -- dice-coef:0.2692
+	 (admiral, admiration) -- dice-coef:0.0000
+	 (admiral, admire) -- dice-coef:0.0000
+	 (admiral, admired) -- dice-coef:0.0000
+	 (admiral, admirer) -- dice-coef:0.0000
+	 (admiral, admirers) -- dice-coef:0.0000
+	 (admiral, admires) -- dice-coef:0.0000
+	 (admirals, admiration) -- dice-coef:0.0000
+	 (admirals, admire) -- dice-coef:0.0000
+	 (admirals, admired) -- dice-coef:0.0000
+	 (admirals, admirer) -- dice-coef:0.0000
+	 (admirals, admirers) -- dice-coef:0.0000
+	 (admirals, admires) -- dice-coef:0.0000
+	 (admiration, admire) -- dice-coef:0.1333
+	 (admiration, admired) -- dice-coef:0.0769
+	 (admiration, admirer) -- dice-coef:0.0000
+	 (admiration, admirers) -- dice-coef:0.0000
+	 (admiration, admires) -- dice-coef:0.0000
+	 (admire, admired) -- dice-coef:0.0000
+	 (admire, admirer) -- dice-coef:0.0000
+	 (admire, admirers) -- dice-coef:0.0000
+	 (admire, admires) -- dice-coef:0.0000
+	 (admired, admirer) -- dice-coef:0.0000
+	 (admired, admirers) -- dice-coef:0.0000
+	 (admired, admires) -- dice-coef:0.0000
+	 (admirer, admirers) -- dice-coef:0.0000
+	 (admirer, admires) -- dice-coef:0.3333
+	 (admirers, admires) -- dice-coef:0.0000
+
+admiralti - ['admiralty']
+
+admiss - ['admission', 'admissions']
+	 (admission, admissions) -- dice-coef:0.1143
+
+admit - ['admit', 'admits', 'admitted', 'admittedly', 'admitting']
+	 (admit, admits) -- dice-coef:0.0000
+	 (admit, admitted) -- dice-coef:0.1111
+	 (admit, admittedly) -- dice-coef:0.0000
+	 (admit, admitting) -- dice-coef:0.1481
+	 (admits, admitted) -- dice-coef:0.0435
+	 (admits, admittedly) -- dice-coef:0.0000
+	 (admits, admitting) -- dice-coef:0.0000
+	 (admitted, admittedly) -- dice-coef:0.0263
+	 (admitted, admitting) -- dice-coef:0.0988
+	 (admittedly, admitting) -- dice-coef:0.0000
+
+admonit - ['admonition']
+
+ado - ['ado']
+
+adob - ['adobe', 'adobes']
+	 (adobe, adobes) -- dice-coef:0.0000
+
+adolesc - ['adolescence', 'adolescent', 'adolescents']
+	 (adolescence, adolescent) -- dice-coef:0.1818
+	 (adolescence, adolescents) -- dice-coef:0.2000
+	 (adolescent, adolescents) -- dice-coef:0.1538
+
+adoni - ['adonis']
+
+adopt - ['adopt', 'adopted', 'adopters', 'adopting', 'adoption', 'adoptive']
+	 (adopt, adopted) -- dice-coef:0.0927
+	 (adopt, adopters) -- dice-coef:0.0000
+	 (adopt, adopting) -- dice-coef:0.0526
+	 (adopt, adoption) -- dice-coef:0.0444
+	 (adopt, adoptive) -- dice-coef:0.0000
+	 (adopted, adopters) -- dice-coef:0.0153
+	 (adopted, adopting) -- dice-coef:0.0690
+	 (adopted, adoption) -- dice-coef:0.0921
+	 (adopted, adoptive) -- dice-coef:0.0150
+	 (adopters, adopting) -- dice-coef:0.0000
+	 (adopters, adoption) -- dice-coef:0.0800
+	 (adopters, adoptive) -- dice-coef:0.0000
+	 (adopting, adoption) -- dice-coef:0.1026
+	 (adopting, adoptive) -- dice-coef:0.0000
+	 (adoption, adoptive) -- dice-coef:0.0000
+
+adopte - ['adoptees']
+
+ador - ['adoration', 'adore', 'adored', 'adoring']
+	 (adoration, adore) -- dice-coef:0.0000
+	 (adoration, adored) -- dice-coef:0.0000
+	 (adoration, adoring) -- dice-coef:0.2500
+	 (adore, adored) -- dice-coef:0.0000
+	 (adore, adoring) -- dice-coef:0.0000
+	 (adored, adoring) -- dice-coef:0.0000
+
+adorn - ['adorn', 'adorned', 'adornments']
+	 (adorn, adorned) -- dice-coef:0.0000
+	 (adorn, adornments) -- dice-coef:0.0000
+	 (adorned, adornments) -- dice-coef:0.0000
+
+adp - ['adp']
+
+adren - ['adrenal']
+
+adrenocort - ['adrenocortical']
+
+adrian - ['adrian']
+
+adrianopl - ['adrianople']
+
+adrift - ['adrift']
+
+adult - ['adult', 'adults']
+	 (adult, adults) -- dice-coef:0.1571
+
+adulteri - ['adulteries', 'adultery']
+	 (adulteries, adultery) -- dice-coef:0.0000
+
+adulthood - ['adulthood']
+
+advanc - ['advance', 'advanced', 'advancement', 'advancements', 'advances', 'advancing']
+	 (advance, advanced) -- dice-coef:0.0529
+	 (advance, advancement) -- dice-coef:0.0571
+	 (advance, advancements) -- dice-coef:0.0000
+	 (advance, advances) -- dice-coef:0.0412
+	 (advance, advancing) -- dice-coef:0.1263
+	 (advanced, advancement) -- dice-coef:0.0423
+	 (advanced, advancements) -- dice-coef:0.0348
+	 (advanced, advances) -- dice-coef:0.0597
+	 (advanced, advancing) -- dice-coef:0.0455
+	 (advancement, advancements) -- dice-coef:0.0000
+	 (advancement, advances) -- dice-coef:0.0400
+	 (advancement, advancing) -- dice-coef:0.0833
+	 (advancements, advances) -- dice-coef:0.0000
+	 (advancements, advancing) -- dice-coef:0.0000
+	 (advances, advancing) -- dice-coef:0.0500
+
+advantag - ['advantage', 'advantageous', 'advantages']
+	 (advantage, advantageous) -- dice-coef:0.0000
+	 (advantage, advantages) -- dice-coef:0.0619
+	 (advantageous, advantages) -- dice-coef:0.0000
+
+advent - ['advent']
+
+adventist - ['adventist']
+
+adventur - ['adventure', 'adventurer', 'adventurers', 'adventures', 'adventurous']
+	 (adventure, adventurer) -- dice-coef:0.0526
+	 (adventure, adventurers) -- dice-coef:0.0000
+	 (adventure, adventures) -- dice-coef:0.2143
+	 (adventure, adventurous) -- dice-coef:0.0263
+	 (adventurer, adventurers) -- dice-coef:0.0000
+	 (adventurer, adventures) -- dice-coef:0.0256
+	 (adventurer, adventurous) -- dice-coef:0.1429
+	 (adventurers, adventures) -- dice-coef:0.0267
+	 (adventurers, adventurous) -- dice-coef:0.0000
+	 (adventures, adventurous) -- dice-coef:0.0000
+
+adventuress - ['adventuress']
+
+adverb - ['adverb']
+
+adversari - ['adversaries', 'adversary']
+	 (adversaries, adversary) -- dice-coef:0.0000
+
+advers - ['adverse', 'adversely', 'adversity']
+	 (adverse, adversely) -- dice-coef:0.0000
+	 (adverse, adversity) -- dice-coef:0.0000
+	 (adversely, adversity) -- dice-coef:0.0000
+
+advert - ['advert', 'adverts']
+	 (advert, adverts) -- dice-coef:0.2000
+
+advertis - ['advertise', 'advertised', 'advertisement', 'advertisements', 'advertiser', 'advertisers', 'advertises', 'advertising']
+	 (advertise, advertised) -- dice-coef:0.2000
+	 (advertise, advertisement) -- dice-coef:0.0513
+	 (advertise, advertisements) -- dice-coef:0.2222
+	 (advertise, advertiser) -- dice-coef:0.0000
+	 (advertise, advertisers) -- dice-coef:0.0000
+	 (advertise, advertises) -- dice-coef:0.0000
+	 (advertise, advertising) -- dice-coef:0.1159
+	 (advertised, advertisement) -- dice-coef:0.0889
+	 (advertised, advertisements) -- dice-coef:0.0833
+	 (advertised, advertiser) -- dice-coef:0.0000
+	 (advertised, advertisers) -- dice-coef:0.1176
+	 (advertised, advertises) -- dice-coef:0.1333
+	 (advertised, advertising) -- dice-coef:0.0800
+	 (advertisement, advertisements) -- dice-coef:0.1395
+	 (advertisement, advertiser) -- dice-coef:0.0000
+	 (advertisement, advertisers) -- dice-coef:0.0556
+	 (advertisement, advertises) -- dice-coef:0.0000
+	 (advertisement, advertising) -- dice-coef:0.4255
+	 (advertisements, advertiser) -- dice-coef:0.0000
+	 (advertisements, advertisers) -- dice-coef:0.1333
+	 (advertisements, advertises) -- dice-coef:0.0000
+	 (advertisements, advertising) -- dice-coef:0.1370
+	 (advertiser, advertisers) -- dice-coef:0.0000
+	 (advertiser, advertises) -- dice-coef:0.0000
+	 (advertiser, advertising) -- dice-coef:0.0000
+	 (advertisers, advertises) -- dice-coef:0.0000
+	 (advertisers, advertising) -- dice-coef:0.0909
+	 (advertises, advertising) -- dice-coef:0.0000
+
+advic - ['advice']
+
+advis - ['advisable', 'advise', 'advised', 'adviser', 'advisers', 'advises', 'advising']
+	 (advisable, advise) -- dice-coef:0.0000
+	 (advisable, advised) -- dice-coef:0.0870
+	 (advisable, adviser) -- dice-coef:0.0000
+	 (advisable, advisers) -- dice-coef:0.0000
+	 (advisable, advises) -- dice-coef:0.0000
+	 (advisable, advising) -- dice-coef:0.0000
+	 (advise, advised) -- dice-coef:0.0870
+	 (advise, adviser) -- dice-coef:0.0667
+	 (advise, advisers) -- dice-coef:0.0000
+	 (advise, advises) -- dice-coef:0.0000
+	 (advise, advising) -- dice-coef:0.0000
+	 (advised, adviser) -- dice-coef:0.0976
+	 (advised, advisers) -- dice-coef:0.0000
+	 (advised, advises) -- dice-coef:0.0769
+	 (advised, advising) -- dice-coef:0.0000
+	 (adviser, advisers) -- dice-coef:0.0000
+	 (adviser, advises) -- dice-coef:0.1212
+	 (adviser, advising) -- dice-coef:0.0667
+	 (advisers, advises) -- dice-coef:0.0000
+	 (advisers, advising) -- dice-coef:0.0000
+	 (advises, advising) -- dice-coef:0.0000
+
+advisor - ['advisor', 'advisors']
+	 (advisor, advisors) -- dice-coef:0.1132
+
+advisori - ['advisory']
+
+advocaci - ['advocacy']
+
+advoc - ['advocate', 'advocated', 'advocates', 'advocating']
+	 (advocate, advocated) -- dice-coef:0.2121
+	 (advocate, advocates) -- dice-coef:0.1493
+	 (advocate, advocating) -- dice-coef:0.0702
+	 (advocated, advocates) -- dice-coef:0.0976
+	 (advocated, advocating) -- dice-coef:0.1935
+	 (advocates, advocating) -- dice-coef:0.0625
+
+adz - ['adz']
+
+ae - ['ae']
+
+aec - ['aec']
+
+aegean - ['aegean']
+
+aegina - ['aegina']
+
+aegi - ['aegis']
+
+aenea - ['aeneas']
+
+aeneid - ['aeneid']
+
+aeolian - ['aeolian']
+
+aeon - ['aeons']
+
+aerat - ['aerate', 'aerating', 'aeration', 'aerator']
+	 (aerate, aerating) -- dice-coef:1.0000
+	 (aerate, aeration) -- dice-coef:1.0000
+	 (aerate, aerator) -- dice-coef:1.0000
+	 (aerating, aeration) -- dice-coef:1.0000
+	 (aerating, aerator) -- dice-coef:1.0000
+	 (aeration, aerator) -- dice-coef:1.0000
+
+aerial - ['aerial', 'aerials']
+	 (aerial, aerials) -- dice-coef:0.0299
+
+aerodrom - ['aerodrome']
+
+aerodynam - ['aerodynamic']
+
+aeronaut - ['aeronautical', 'aeronautics']
+	 (aeronautical, aeronautics) -- dice-coef:0.0000
+
+aeroplan - ['aeroplane', 'aeroplanes']
+	 (aeroplane, aeroplanes) -- dice-coef:0.1818
+
+aerosol - ['aerosol']
+
+aerospac - ['aerospace']
+
+aeschylus - ['aeschylus']
+
+aesthet - ['aesthetic', 'aesthetically', 'aesthetics']
+	 (aesthetic, aesthetically) -- dice-coef:0.0000
+	 (aesthetic, aesthetics) -- dice-coef:0.3030
+	 (aesthetically, aesthetics) -- dice-coef:0.0000
+
+aetiolog - ['aetiology']
+
+afar - ['afar']
+
+affair - ['affair', 'affairs']
+	 (affair, affairs) -- dice-coef:0.0914
+
+affect - ['affect', 'affectation', 'affected', 'affecting', 'affection', 'affections', 'affective', 'affects']
+	 (affect, affectation) -- dice-coef:0.0000
+	 (affect, affected) -- dice-coef:0.1698
+	 (affect, affecting) -- dice-coef:0.1569
+	 (affect, affection) -- dice-coef:0.0000
+	 (affect, affections) -- dice-coef:0.0000
+	 (affect, affective) -- dice-coef:0.0000
+	 (affect, affects) -- dice-coef:0.2182
+	 (affectation, affected) -- dice-coef:0.0000
+	 (affectation, affecting) -- dice-coef:0.0000
+	 (affectation, affection) -- dice-coef:0.0952
+	 (affectation, affections) -- dice-coef:0.0000
+	 (affectation, affective) -- dice-coef:0.0000
+	 (affectation, affects) -- dice-coef:0.0000
+	 (affected, affecting) -- dice-coef:0.0706
+	 (affected, affection) -- dice-coef:0.0225
+	 (affected, affections) -- dice-coef:0.0548
+	 (affected, affective) -- dice-coef:0.0000
+	 (affected, affects) -- dice-coef:0.1348
+	 (affecting, affection) -- dice-coef:0.0000
+	 (affecting, affections) -- dice-coef:0.0000
+	 (affecting, affective) -- dice-coef:0.0000
+	 (affecting, affects) -- dice-coef:0.2353
+	 (affection, affections) -- dice-coef:0.0909
+	 (affection, affective) -- dice-coef:0.0000
+	 (affection, affects) -- dice-coef:0.0526
+	 (affections, affective) -- dice-coef:0.0000
+	 (affections, affects) -- dice-coef:0.0000
+	 (affective, affects) -- dice-coef:0.0000
+
+affection - ['affectionate', 'affectionately']
+	 (affectionate, affectionately) -- dice-coef:0.0000
+
+affer - ['afferent']
+
+affili - ['affiliate', 'affiliated', 'affiliates', 'affiliation', 'affiliations']
+	 (affiliate, affiliated) -- dice-coef:0.0826
+	 (affiliate, affiliates) -- dice-coef:0.3390
+	 (affiliate, affiliation) -- dice-coef:0.2029
+	 (affiliate, affiliations) -- dice-coef:0.2078
+	 (affiliated, affiliates) -- dice-coef:0.0364
+	 (affiliated, affiliation) -- dice-coef:0.1333
+	 (affiliated, affiliations) -- dice-coef:0.0312
+	 (affiliates, affiliation) -- dice-coef:0.2069
+	 (affiliates, affiliations) -- dice-coef:0.2727
+	 (affiliation, affiliations) -- dice-coef:0.1053
+
+affin - ['affine', 'affinities', 'affinity']
+	 (affine, affinities) -- dice-coef:0.0000
+	 (affine, affinity) -- dice-coef:0.0000
+	 (affinities, affinity) -- dice-coef:0.1538
+
+affirm - ['affirm', 'affirmation', 'affirmative', 'affirmed', 'affirming']
+	 (affirm, affirmation) -- dice-coef:0.0000
+	 (affirm, affirmative) -- dice-coef:0.2500
+	 (affirm, affirmed) -- dice-coef:0.0000
+	 (affirm, affirming) -- dice-coef:0.0000
+	 (affirmation, affirmative) -- dice-coef:0.0000
+	 (affirmation, affirmed) -- dice-coef:0.0000
+	 (affirmation, affirming) -- dice-coef:0.0000
+	 (affirmative, affirmed) -- dice-coef:0.0000
+	 (affirmative, affirming) -- dice-coef:0.0000
+	 (affirmed, affirming) -- dice-coef:0.0000
+
+affix - ['affixed']
+
+afflict - ['affliction', 'afflictions']
+	 (affliction, afflictions) -- dice-coef:0.0000
+
+affluent - ['affluent']
+
+afford - ['afford', 'affordable', 'afforded', 'affords']
+	 (afford, affordable) -- dice-coef:0.0000
+	 (afford, afforded) -- dice-coef:0.0000
+	 (afford, affords) -- dice-coef:0.0000
+	 (affordable, afforded) -- dice-coef:0.0000
+	 (affordable, affords) -- dice-coef:0.0000
+	 (afforded, affords) -- dice-coef:0.0000
+
+affront - ['affront']
+
+afghan - ['afghan']
+
+afghani - ['afghani']
+
+afghanistan - ['afghanistan']
+
+aficionado - ['aficionado', 'aficionados']
+	 (aficionado, aficionados) -- dice-coef:0.0000
+
+afield - ['afield']
+
+afl - ['afl']
+
+afl-cio - ['afl-cio']
+
+afloat - ['afloat']
+
+afoot - ['afoot']
+
+aforement - ['aforementioned']
+
+afraid - ['afraid']
+
+afresh - ['afresh']
+
+africa - ['africa', "africa's"]
+	 (africa, africa's) -- dice-coef:0.0172
+
+african - ['african', 'africans']
+	 (african, africans) -- dice-coef:0.0500
+
+african-american - ['african-american', 'african-americans']
+	 (african-american, african-americans) -- dice-coef:0.1622
+
+afrikaan - ['afrikaans']
+
+afro - ['afro']
+
+aft - ['aft']
+
+after - ['after']
+
+after-school - ['after-school']
+
+afterglow - ['afterglow']
+
+afterlif - ['afterlife']
+
+aftermath - ['aftermath']
+
+afternoon - ['afternoon', 'afternoons']
+	 (afternoon, afternoons) -- dice-coef:0.0000
+
+afterthought - ['afterthought']
+
+afterward - ['afterward', 'afterwards']
+	 (afterward, afterwards) -- dice-coef:0.0645
+
+ag - ['ag', 'ags']
+	 (ag, ags) -- dice-coef:0.0000
+
+ag+ - ['ag+']
+
+aga - ['aga']
+
+again - ['again']
+
+agama - ['agama']
+
+agamemnon - ['agamemnon']
+
+agap - ['agape']
+
+agar - ['agar']
+
+agassiz - ['agassiz']
+
+agat - ['agate']
+
+age - ['age', 'aged', 'agee', 'ageing', 'ages', 'aging']
+	 (age, aged) -- dice-coef:0.1108
+	 (age, agee) -- dice-coef:0.0057
+	 (age, ageing) -- dice-coef:0.0057
+	 (age, ages) -- dice-coef:0.0766
+	 (age, aging) -- dice-coef:0.0223
+	 (aged, agee) -- dice-coef:0.0000
+	 (aged, ageing) -- dice-coef:0.0167
+	 (aged, ages) -- dice-coef:0.0697
+	 (aged, aging) -- dice-coef:0.0296
+	 (agee, ageing) -- dice-coef:0.0000
+	 (agee, ages) -- dice-coef:0.0000
+	 (agee, aging) -- dice-coef:0.0000
+	 (ageing, ages) -- dice-coef:0.0220
+	 (ageing, aging) -- dice-coef:0.0800
+	 (ages, aging) -- dice-coef:0.0189
+
+age-old - ['age-old']
+
+ageism - ['ageism']
+
+agenc - ['agencies', 'agency', "agency's"]
+	 (agencies, agency) -- dice-coef:0.2011
+	 (agencies, agency's) -- dice-coef:0.0526
+	 (agency, agency's) -- dice-coef:0.0354
+
+agenda - ['agenda', 'agendas']
+	 (agenda, agendas) -- dice-coef:0.1818
+
+agent - ['agent', 'agents']
+	 (agent, agents) -- dice-coef:0.2186
+
+agglomer - ['agglomeration', 'agglomerations']
+	 (agglomeration, agglomerations) -- dice-coef:0.5000
+
+aggrav - ['aggravated']
+
+aggreg - ['aggregate', 'aggregated', 'aggregates', 'aggregation', 'aggregator']
+	 (aggregate, aggregated) -- dice-coef:0.0000
+	 (aggregate, aggregates) -- dice-coef:0.0000
+	 (aggregate, aggregation) -- dice-coef:0.0000
+	 (aggregate, aggregator) -- dice-coef:0.0000
+	 (aggregated, aggregates) -- dice-coef:0.0000
+	 (aggregated, aggregation) -- dice-coef:0.0000
+	 (aggregated, aggregator) -- dice-coef:0.0000
+	 (aggregates, aggregation) -- dice-coef:0.0000
+	 (aggregates, aggregator) -- dice-coef:0.0000
+	 (aggregation, aggregator) -- dice-coef:0.0000
+
+aggress - ['aggression', 'aggressive', 'aggressively']
+	 (aggression, aggressive) -- dice-coef:0.0000
+	 (aggression, aggressively) -- dice-coef:0.0000
+	 (aggressive, aggressively) -- dice-coef:0.0000
+
+aggressor - ['aggressor']
+
+agil - ['agile', 'agility']
+	 (agile, agility) -- dice-coef:0.0000
+
+agincourt - ['agincourt']
+
+agio - ['agios']
+
+agit - ['agitated', 'agitation']
+	 (agitated, agitation) -- dice-coef:0.3077
+
+aglaia - ['aglaia']
+
+agni - ['agni']
+
+agnost - ['agnostic', 'agnostics']
+	 (agnostic, agnostics) -- dice-coef:0.2500
+
+agnostic - ['agnosticism']
+
+ago - ['ago']
+
+agonist - ['agonist', 'agonists']
+	 (agonist, agonists) -- dice-coef:0.5000
+
+agoni - ['agony']
+
+agora - ['agora']
+
+agra - ['agra']
+
+agrarian - ['agrarian']
+
+agre - ['agree', 'agreed', 'agreeing', 'agrees']
+	 (agree, agreed) -- dice-coef:0.1832
+	 (agree, agreeing) -- dice-coef:0.0000
+	 (agree, agrees) -- dice-coef:0.1081
+	 (agreed, agreeing) -- dice-coef:0.0208
+	 (agreed, agrees) -- dice-coef:0.0513
+	 (agreeing, agrees) -- dice-coef:0.0513
+
+agreeabl - ['agreeable']
+
+agreement - ['agreement', 'agreements']
+	 (agreement, agreements) -- dice-coef:0.1333
+
+agricola - ['agricola', 'agricolae']
+	 (agricola, agricolae) -- dice-coef:0.0000
+
+agricultur - ['agricultural', 'agriculture']
+	 (agricultural, agriculture) -- dice-coef:0.2500
+
+agriculturalist - ['agriculturalists']
+
+agriculturist - ['agriculturists']
+
+agrippa - ['agrippa']
+
+aground - ['aground']
+
+agua - ['agua', 'aguas']
+	 (agua, aguas) -- dice-coef:0.2000
+
+ahead - ['ahead']
+
+ahimsa - ['ahimsa']
+
+ai - ['ai']
+
+aid - ['aid', 'aide', 'aided', 'aides', 'aiding', 'aids']
+	 (aid, aide) -- dice-coef:0.0000
+	 (aid, aided) -- dice-coef:0.0455
+	 (aid, aides) -- dice-coef:0.0192
+	 (aid, aiding) -- dice-coef:0.0000
+	 (aid, aids) -- dice-coef:0.0597
+	 (aide, aided) -- dice-coef:0.0455
+	 (aide, aides) -- dice-coef:0.2500
+	 (aide, aiding) -- dice-coef:0.0000
+	 (aide, aids) -- dice-coef:0.0000
+	 (aided, aides) -- dice-coef:0.0000
+	 (aided, aiding) -- dice-coef:0.0000
+	 (aided, aids) -- dice-coef:0.0606
+	 (aides, aiding) -- dice-coef:0.0000
+	 (aides, aids) -- dice-coef:0.0000
+	 (aiding, aids) -- dice-coef:0.0541
+
+aide-de-camp - ['aide-de-camp']
+
+aiken - ['aiken']
+
+aileron - ['ailerons']
+
+ail - ['ailing']
+
+aim - ['aim', 'aimed', 'aiming', 'aims']
+	 (aim, aimed) -- dice-coef:0.1067
+	 (aim, aiming) -- dice-coef:0.0800
+	 (aim, aims) -- dice-coef:0.1446
+	 (aimed, aiming) -- dice-coef:0.0444
+	 (aimed, aims) -- dice-coef:0.0000
+	 (aiming, aims) -- dice-coef:0.0000
+
+aimless - ['aimlessly']
+
+ain - ['ain']
+
+air - ['air', 'aire', 'aired', 'aires', 'airing', 'airings', 'airs']
+	 (air, aire) -- dice-coef:0.0116
+	 (air, aired) -- dice-coef:0.1022
+	 (air, aires) -- dice-coef:0.0166
+	 (air, airing) -- dice-coef:0.0399
+	 (air, airings) -- dice-coef:0.0118
+	 (air, airs) -- dice-coef:0.0676
+	 (aire, aired) -- dice-coef:0.0000
+	 (aire, aires) -- dice-coef:0.0000
+	 (aire, airing) -- dice-coef:0.0000
+	 (aire, airings) -- dice-coef:0.0000
+	 (aire, airs) -- dice-coef:0.0000
+	 (aired, aires) -- dice-coef:0.0190
+	 (aired, airing) -- dice-coef:0.1702
+	 (aired, airings) -- dice-coef:0.0488
+	 (aired, airs) -- dice-coef:0.1633
+	 (aires, airing) -- dice-coef:0.0000
+	 (aires, airings) -- dice-coef:0.0000
+	 (aires, airs) -- dice-coef:0.0000
+	 (airing, airings) -- dice-coef:0.1818
+	 (airing, airs) -- dice-coef:0.1579
+	 (airings, airs) -- dice-coef:0.0769
+
+air-breath - ['air-breathing']
+
+air-condit - ['air-conditioned', 'air-conditioning']
+	 (air-conditioned, air-conditioning) -- dice-coef:0.0000
+
+air-cool - ['air-cooled']
+
+air-fil - ['air-filled']
+
+air-to-air - ['air-to-air']
+
+air-to-ground - ['air-to-ground']
+
+airborn - ['airborne']
+
+airbrush - ['airbrushing']
+
+airbus - ['airbus']
+
+aircraft - ['aircraft', "aircraft's"]
+	 (aircraft, aircraft's) -- dice-coef:0.0571
+
+aircraftman - ['aircraftman']
+
+airdrop - ['airdrop']
+
+airfield - ['airfield', 'airfields']
+	 (airfield, airfields) -- dice-coef:0.1538
+
+airflow - ['airflow']
+
+airfoil - ['airfoil']
+
+airforc - ['airforce']
+
+airfram - ['airframe', 'airframes']
+	 (airframe, airframes) -- dice-coef:0.2222
+
+airhead - ['airhead']
+
+airlift - ['airlift']
+
+airlin - ['airline', 'airliner', 'airliners', 'airlines']
+	 (airline, airliner) -- dice-coef:0.0571
+	 (airline, airliners) -- dice-coef:0.1154
+	 (airline, airlines) -- dice-coef:0.3908
+	 (airliner, airliners) -- dice-coef:0.0606
+	 (airliner, airlines) -- dice-coef:0.0882
+	 (airliners, airlines) -- dice-coef:0.5647
+
+airlock - ['airlock']
+
+airmen - ['airmen']
+
+airplan - ['airplane', 'airplanes']
+	 (airplane, airplanes) -- dice-coef:0.0588
+
+airport - ['airport', "airport's", 'airports']
+	 (airport, airport's) -- dice-coef:0.0448
+	 (airport, airports) -- dice-coef:0.3135
+	 (airport's, airports) -- dice-coef:0.1017
+
+airship - ['airship']
+
+airspac - ['airspace']
+
+airspe - ['airspeed']
+
+airstrip - ['airstrip', 'airstrips']
+	 (airstrip, airstrips) -- dice-coef:0.0000
+
+airwav - ['airwaves']
+
+airway - ['airway', 'airways']
+	 (airway, airways) -- dice-coef:0.0000
+
+airworthi - ['airworthy']
+
+airi - ['airy']
+
+aisl - ['aisle', 'aisles']
+	 (aisle, aisles) -- dice-coef:0.4444
+
+aix - ['aix']
+
+aizoacea - ['aizoaceae']
+
+ajax - ['ajax']
+
+ak - ['ak', 'aks']
+	 (ak, aks) -- dice-coef:0.0000
+
+akin - ['akin']
+
+akkadian - ['akkadian']
+
+akron - ['akron']
+
+al - ['al', 'als']
+	 (al, als) -- dice-coef:0.0157
+
+al-hakim - ['al-hakim']
+
+al-qaeda - ['al-qaeda']
+
+al-qaida - ['al-qaida']
+
+ala - ['ala', 'alas']
+	 (ala, alas) -- dice-coef:0.0000
+
+alabama - ['alabama']
+
+alabast - ['alabaster']
+
+aladdin - ['aladdin']
+
+alamo - ['alamo', 'alamos']
+	 (alamo, alamos) -- dice-coef:0.0000
+
+alar - ['alaric']
+
+alarm - ['alarm', 'alarmed', 'alarming', 'alarms']
+	 (alarm, alarmed) -- dice-coef:0.0000
+	 (alarm, alarming) -- dice-coef:0.1333
+	 (alarm, alarms) -- dice-coef:0.0000
+	 (alarmed, alarming) -- dice-coef:0.0000
+	 (alarmed, alarms) -- dice-coef:0.0000
+	 (alarming, alarms) -- dice-coef:0.0000
+
+alaska - ['alaska']
+
+alaskan - ['alaskan']
+
+alauda - ['alauda']
+
+alb - ['alb']
+
+alba - ['alba']
+
+albania - ['albania']
+
+albanian - ['albanian']
+
+albani - ['albany']
+
+albatross - ['albatross']
+
+albedo - ['albedo']
+
+albert - ['albert', 'alberts', "albert's"]
+	 (albert, alberts) -- dice-coef:0.0155
+	 (albert, albert's) -- dice-coef:0.0465
+	 (alberts, albert's) -- dice-coef:0.3333
+
+alberta - ['alberta']
+
+albino - ['albino']
+
+albion - ['albion']
+
+albuginea - ['albuginea']
+
+album - ['album', "album's", 'albums']
+	 (album, album's) -- dice-coef:0.0884
+	 (album, albums) -- dice-coef:0.7280
+	 (album's, albums) -- dice-coef:0.0892
+
+albumin - ['albumin']
+
+albuquerqu - ['albuquerque']
+
+alcazar - ['alcazar']
+
+alchemist - ['alchemist']
+
+alchemi - ['alchemy']
+
+alcibiad - ['alcibiades']
+
+alcohol - ['alcohol', 'alcoholic', 'alcoholics', 'alcoholism']
+	 (alcohol, alcoholic) -- dice-coef:0.1200
+	 (alcohol, alcoholics) -- dice-coef:0.0500
+	 (alcohol, alcoholism) -- dice-coef:0.0000
+	 (alcoholic, alcoholics) -- dice-coef:0.0000
+	 (alcoholic, alcoholism) -- dice-coef:0.0909
+	 (alcoholics, alcoholism) -- dice-coef:0.1667
+
+aldebaran - ['aldebaran']
+
+aldehyd - ['aldehyde']
+
+alder - ['alder']
+
+alderman - ['alderman']
+
+aldermen - ['aldermen']
+
+ale - ['ale']
+
+aleppo - ['aleppo']
+
+alert - ['alert', 'alerted', 'alerting', 'alerts']
+	 (alert, alerted) -- dice-coef:0.0000
+	 (alert, alerting) -- dice-coef:0.0800
+	 (alert, alerts) -- dice-coef:0.0833
+	 (alerted, alerting) -- dice-coef:0.0000
+	 (alerted, alerts) -- dice-coef:0.0000
+	 (alerting, alerts) -- dice-coef:0.0000
+
+aleutian - ['aleutian', 'aleutians']
+	 (aleutian, aleutians) -- dice-coef:0.3333
+
+alexand - ['alexander', "alexander's"]
+	 (alexander, alexander's) -- dice-coef:0.0710
+
+alexandria - ['alexandria']
+
+alexandrian - ['alexandrian']
+
+alexandrin - ['alexandrine', 'alexandrines']
+	 (alexandrine, alexandrines) -- dice-coef:0.6667
+
+alfalfa - ['alfalfa', "alfalfa's"]
+	 (alfalfa, alfalfa's) -- dice-coef:0.5000
+
+alfr - ['alfred']
+
+alga - ['algae']
+
+algebra - ['algebra', 'algebraic']
+	 (algebra, algebraic) -- dice-coef:0.2222
+
+alger - ['alger']
+
+algeria - ['algeria']
+
+algerian - ['algerian']
+
+algier - ['algiers']
+
+algol - ['algol']
+
+algorithm - ['algorithm', 'algorithmic', 'algorithms']
+	 (algorithm, algorithmic) -- dice-coef:0.1053
+	 (algorithm, algorithms) -- dice-coef:0.3448
+	 (algorithmic, algorithms) -- dice-coef:0.2500
+
+alhambra - ['alhambra']
+
+ali - ['ali']
+
+alia - ['alias']
+
+alias - ['aliases']
+
+alibi - ['alibi']
+
+alien - ['alien', 'alienated', 'alienating', 'alienation', 'aliens']
+	 (alien, alienated) -- dice-coef:0.0000
+	 (alien, alienating) -- dice-coef:0.0000
+	 (alien, alienation) -- dice-coef:0.0000
+	 (alien, aliens) -- dice-coef:0.2963
+	 (alienated, alienating) -- dice-coef:0.0000
+	 (alienated, alienation) -- dice-coef:0.0000
+	 (alienated, aliens) -- dice-coef:0.0000
+	 (alienating, alienation) -- dice-coef:0.0000
+	 (alienating, aliens) -- dice-coef:0.0000
+	 (alienation, aliens) -- dice-coef:0.0000
+
+alight - ['alight']
+
+align - ['align', 'aligned', 'aligning', 'alignment']
+	 (align, aligned) -- dice-coef:0.1053
+	 (align, aligning) -- dice-coef:0.3333
+	 (align, alignment) -- dice-coef:0.0000
+	 (aligned, aligning) -- dice-coef:0.1176
+	 (aligned, alignment) -- dice-coef:0.0556
+	 (aligning, alignment) -- dice-coef:0.0000
+
+alik - ['alike']
+
+alimentari - ['alimentary']
+
+aliv - ['alive']
+
+aliyah - ['aliyah']
+
+alkali - ['alkali']
+
+alkalin - ['alkaline']
+
+alkaloid - ['alkaloid', 'alkaloids']
+	 (alkaloid, alkaloids) -- dice-coef:0.3333
+
+alkyl - ['alkyl']
+
+all - ['all']
+
+all-around - ['all-around']
+
+all-import - ['all-important']
+
+all-met - ['all-metal']
+
+all-night - ['all-night']
+
+all-out - ['all-out']
+
+all-pow - ['all-powerful']
+
+all-round - ['all-round']
+
+all-tim - ['all-time']
+
+all-weath - ['all-weather']
+
+allah - ['allah']
+
+allamanda - ['allamanda']
+
+alleg - ['allegation', 'allegations', 'allege', 'alleged', 'allegedly', 'alleges', 'alleging']
+	 (allegation, allegations) -- dice-coef:0.1935
+	 (allegation, allege) -- dice-coef:0.1538
+	 (allegation, alleged) -- dice-coef:0.1562
+	 (allegation, allegedly) -- dice-coef:0.0909
+	 (allegation, alleges) -- dice-coef:0.3077
+	 (allegation, alleging) -- dice-coef:0.1429
+	 (allegations, allege) -- dice-coef:0.1429
+	 (allegations, alleged) -- dice-coef:0.3291
+	 (allegations, allegedly) -- dice-coef:0.1695
+	 (allegations, alleges) -- dice-coef:0.0714
+	 (allegations, alleging) -- dice-coef:0.0000
+	 (allege, alleged) -- dice-coef:0.0984
+	 (allege, allegedly) -- dice-coef:0.0976
+	 (allege, alleges) -- dice-coef:0.2000
+	 (allege, alleging) -- dice-coef:0.0000
+	 (alleged, allegedly) -- dice-coef:0.2609
+	 (alleged, alleges) -- dice-coef:0.0984
+	 (alleged, alleging) -- dice-coef:0.0323
+	 (allegedly, alleges) -- dice-coef:0.1463
+	 (allegedly, alleging) -- dice-coef:0.0476
+	 (alleges, alleging) -- dice-coef:0.1818
+
+allegheni - ['allegheny']
+
+allegi - ['allegiance']
+
+allegor - ['allegorical']
+
+allegori - ['allegory']
+
+allegro - ['allegro']
+
+allel - ['allele']
+
+allemand - ['allemandes']
+
+allen - ['allen']
+
+allentown - ['allentown']
+
+aller - ['aller']
+
+allerg - ['allergic']
+
+allergi - ['allergies', 'allergy']
+	 (allergies, allergy) -- dice-coef:0.0000
+
+allevi - ['alleviate', 'alleviating']
+	 (alleviate, alleviating) -- dice-coef:0.0000
+
+alley - ['alley', 'alleys']
+	 (alley, alleys) -- dice-coef:0.0000
+
+allia - ['allia']
+
+allianc - ['alliance', 'alliances']
+	 (alliance, alliances) -- dice-coef:0.1250
+
+alli - ['allied', 'allies', 'allis', 'ally', 'allying']
+	 (allied, allies) -- dice-coef:0.2500
+	 (allied, allis) -- dice-coef:0.0000
+	 (allied, ally) -- dice-coef:0.1026
+	 (allied, allying) -- dice-coef:0.0333
+	 (allies, allis) -- dice-coef:0.0000
+	 (allies, ally) -- dice-coef:0.0303
+	 (allies, allying) -- dice-coef:0.0000
+	 (allis, ally) -- dice-coef:0.0000
+	 (allis, allying) -- dice-coef:0.0000
+	 (ally, allying) -- dice-coef:0.0000
+
+allig - ['alligator']
+
+alloc - ['allocate', 'allocated', 'allocating', 'allocation', 'allocations']
+	 (allocate, allocated) -- dice-coef:0.0000
+	 (allocate, allocating) -- dice-coef:0.8000
+	 (allocate, allocation) -- dice-coef:0.1818
+	 (allocate, allocations) -- dice-coef:0.2857
+	 (allocated, allocating) -- dice-coef:0.0000
+	 (allocated, allocation) -- dice-coef:0.1053
+	 (allocated, allocations) -- dice-coef:0.0000
+	 (allocating, allocation) -- dice-coef:0.1667
+	 (allocating, allocations) -- dice-coef:0.2500
+	 (allocation, allocations) -- dice-coef:0.1429
+
+allot - ['allotment', 'allotted']
+	 (allotment, allotted) -- dice-coef:0.4000
+
+allotrop - ['allotropes']
+
+allow - ['allow', 'allowable', 'allowance', 'allowances', 'allowed', 'allowing', 'allows']
+	 (allow, allowable) -- dice-coef:0.0000
+	 (allow, allowance) -- dice-coef:0.0136
+	 (allow, allowances) -- dice-coef:0.0000
+	 (allow, allowed) -- dice-coef:0.2012
+	 (allow, allowing) -- dice-coef:0.2125
+	 (allow, allows) -- dice-coef:0.2388
+	 (allowable, allowance) -- dice-coef:0.0000
+	 (allowable, allowances) -- dice-coef:0.0000
+	 (allowable, allowed) -- dice-coef:0.0000
+	 (allowable, allowing) -- dice-coef:0.0000
+	 (allowable, allows) -- dice-coef:0.0000
+	 (allowance, allowances) -- dice-coef:0.3333
+	 (allowance, allowed) -- dice-coef:0.0106
+	 (allowance, allowing) -- dice-coef:0.0000
+	 (allowance, allows) -- dice-coef:0.0000
+	 (allowances, allowed) -- dice-coef:0.0000
+	 (allowances, allowing) -- dice-coef:0.0000
+	 (allowances, allows) -- dice-coef:0.0000
+	 (allowed, allowing) -- dice-coef:0.2413
+	 (allowed, allows) -- dice-coef:0.1742
+	 (allowing, allows) -- dice-coef:0.2039
+
+alloy - ['alloy', 'alloys']
+	 (alloy, alloys) -- dice-coef:0.0000
+
+allud - ['allude', 'alluded', 'alludes']
+	 (allude, alluded) -- dice-coef:0.0000
+	 (allude, alludes) -- dice-coef:0.0000
+	 (alluded, alludes) -- dice-coef:0.0000
+
+allur - ['allure', 'alluring']
+	 (allure, alluring) -- dice-coef:0.0000
+
+allus - ['allusion', 'allusions']
+	 (allusion, allusions) -- dice-coef:0.0000
+
+alluvi - ['alluvial']
+
+almanac - ['almanac', 'almanacs']
+	 (almanac, almanacs) -- dice-coef:0.0000
+
+almighti - ['almighty']
+
+almond - ['almond', 'almonds']
+	 (almond, almonds) -- dice-coef:0.0000
+
+almon - ['almoners']
+
+almost - ['almost']
+
+alm - ['alms']
+
+alo - ['aloe']
+
+aloft - ['aloft']
+
+aloha - ['aloha']
+
+alon - ['alone']
+
+along - ['along']
+
+alongsid - ['alongside']
+
+alonso - ['alonso']
+
+alopex - ['alopex']
+
+alouatta - ['alouatta']
+
+aloud - ['aloud']
+
+alp - ['alp', 'alps']
+	 (alp, alps) -- dice-coef:0.0000
+
+alpena - ['alpena']
+
+alpha - ['alpha']
+
+alphabet - ['alphabet', 'alphabetically', 'alphabets']
+	 (alphabet, alphabetically) -- dice-coef:0.0000
+	 (alphabet, alphabets) -- dice-coef:0.1600
+	 (alphabetically, alphabets) -- dice-coef:0.0000
+
+alpin - ['alpine']
+
+alprazolam - ['alprazolam']
+
+alreadi - ['already']
+
+alright - ['alright']
+
+alsac - ['alsace']
+
+alsatian - ['alsatian']
+
+also - ['also']
+
+alt - ['alt']
+
+altaic - ['altaic']
+
+altair - ['altair']
+
+altar - ['altar', 'altars']
+	 (altar, altars) -- dice-coef:0.2105
+
+altarpiec - ['altarpiece']
+
+alter - ['alter', 'alteration', 'alterations', 'altered', 'altering']
+	 (alter, alteration) -- dice-coef:0.0000
+	 (alter, alterations) -- dice-coef:0.0000
+	 (alter, altered) -- dice-coef:0.0571
+	 (alter, altering) -- dice-coef:0.0000
+	 (alteration, alterations) -- dice-coef:0.1111
+	 (alteration, altered) -- dice-coef:0.0465
+	 (alteration, altering) -- dice-coef:0.0000
+	 (alterations, altered) -- dice-coef:0.1176
+	 (alterations, altering) -- dice-coef:0.0000
+	 (altered, altering) -- dice-coef:0.0465
+
+alterc - ['altercation']
+
+alternanthera - ['alternanthera']
