@@ -14,7 +14,7 @@ pvargas_cs834_a4.pdf
 
 ![alt tag](https://github.com/phvargas/cs532-s16/blob/master/a08/documents/images/a8folder.png)
 
-## a03/documents
+## a04/documents
 
 Contains all latex files and images to produce gradable pdf document
 
