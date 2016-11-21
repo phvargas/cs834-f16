@@ -1,27 +1,23 @@
 <snippet>
   <content>
-# A8 Web Science CS-532
+# A3 CS 734/834 Intro to Information Retrieval Fall 2016
 
 This folder and subfolders contain submission files required for assignment 7.
 
 ## Due Date
 
-Apr 7, 2016 at 11:59.9 P.M.
+November 17, 2016 at 11:59.9 P.M.
 
 ## Main Solution File
 
-cs532_pvargas_hw8.pdf
+pvargas_cs834_a3.pdf
 
-## File Structure
-
-![alt tag](https://github.com/phvargas/cs532-s16/blob/master/a08/documents/images/a8folder.png)
-
-## a7/documents
+## a03/documents
 
 Contains all latex files and images to produce gradable pdf document
 
 
-Data folder to solve problem 8.
+Data folder to solve assignment 3.
 
 </content>
   <tabTrigger></tabTrigger>
