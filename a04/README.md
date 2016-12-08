@@ -10,9 +10,6 @@ December 8, 2016 at 11:59.9 P.M.
 
 pvargas_cs834_a4.pdf
 
-## File Structure
-
-![alt tag](https://github.com/phvargas/cs532-s16/blob/master/a08/documents/images/a8folder.png)
 
 ## a04/documents
 
