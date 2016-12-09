@@ -284,7 +284,7 @@ a ranking using Galago, and then calculate average precision, NDCG at 5
 and 10, precision at 10, and the reciprocal rank by hand.
 
 \subsection{Approach}
-The CACM collection query log has a great deal of queries with a large number of words. This makes the query results in Galago somewhat difficult to interpret without some type of description of what should be considered as a relevant result. For example, the TREC query log contains a narrative of what to consider in order to mark a document relevant. This is not the case for the CACM collection. Below, it is an example of the narrative found in the TREC collection.
+The CACM collection query log has a great deal of queries with a large number of words. This makes the query results in Galago somewhat difficult to interpret without some type of description of what should be considered as relevant result. For example, the TREC query log contains a narrative of what to consider in order to mark a document relevant. This is not the case for the CACM collection. Below, it is an example of the narrative found in the TREC collection.
 
 \begin{verbatim}
 <narr> Narrative: 
@@ -307,16 +307,16 @@ The $12^{th}$ query in the log was used for this exercise:
 \end{verbatim}
 
 \vspace*{10pt} % Question
-A scale of 0 through 3 was used. Where 3 is the most relevant and 0 is not relevant. The following was the criteria used to determined the documents query result relevance:
+A scale of 0 through 3 was used. Where 3 is the most relevant and 0 is not relevant. The following was the criteria used to determine the document's query result relevance:
 \begin{itemize}
-\item If the document is related to  ``portable operating system'' at 3 points was awarded
-\item If the document refers to “portable software” 2 points were awarded
-\item If the document is related to  “operating system” at least 1 point will be awarded
+\item If the document is related to  ``portable operating system'', 3 points were awarded
+\item If the document refers to “portable software”, 2 points were awarded
+\item If the document is related to  “operating system”, at least 1 point was awarded
 \item The occurrence of the word “portable” unrelated to operating system provided no relevance to the query
 \end{itemize}
 
 \subsection{Solution}
-After placing ``portable operating system'' in \textbf{Galago} the 10 first results were analyzed for relevance.
+After placing ``portable operating system'' in \textbf{Galago}, the 10 first results were analyzed for relevance.
 
 \begin{center}
 \includegraphics[scale=.5]{images/galago-search1.png}
@@ -324,7 +324,7 @@ After placing ``portable operating system'' in \textbf{Galago} the 10 first resu
 
 \newpage
 \subsubsection{Generated Ranking Using Galago}
-Using the relevance criteria mentioned before the following scores were given to the ten retrieved documents:
+Using the \textbf{relevance criteria} mentioned, the following scores were given to the ten retrieved documents:
 
 \import{./}{table-1.tex}
 
@@ -336,10 +336,10 @@ By looking at Table \ref{tab:rank1}, the \textit{recall} calculation of the $i^{
 	r_i =  \frac{\sum\limits_{k=1}^i d_k \Bigg  \{ d_k = 1\ if\ d_k\ is\ relevant\ 0\ otherwise }{|Query1|}
 \end{equation}
 
-$|Query1| = $total number of document return in Query\#1. \\
+$|Query1| = $total number of documents returned in Query\#1. \\
 %
 \vspace{5mm}\\
-In other words, the \textit{recall} calculation $r_i$ of the $i^{th}$ ranked document $d$ resulted from Query\#1 is going to be equal to the count of relevant documents retrieved from the $1^{st}$ ranked to the $i^{th}$ ranked, divided by the total number of relevant documents related to the query.\\
+In other words, the \textit{recall} calculation $r_i$ of the $i^{th}$ ranked document $d$ that resulted from Query\#1 is equal to the count of relevant documents retrieved from the $1^{st}$ ranked to the $i^{th}$ ranked, divided by the total number of relevant documents related to the query.\\
 %
 \vspace{5mm}\\
 \textbf{Precision Calculation}\\
@@ -349,7 +349,7 @@ By looking at Table \ref{tab:rank1}, the \textit{precision} calculation of the $
 	p_i =  \frac{\sum\limits_{k=1}^i d_k \Bigg  \{ d_k = 1\ if\ d_k\ is\ relevant\ 0\ otherwise }{i}
 \end{equation}
 \vspace{5mm}\\
-In other words, the \textit{precision} calculation $p_i$ of the $i^{th}$ ranked document $d$ resulted from Query\#1 is going to be equal to the count of relevant documents retrieved from the $1^{st}$ ranked to the $i^{th}$ ranked, divided by the rank of the  $i^{th}$ document related to the query.\\
+In other words, the \textit{precision} calculation $p_i$ of the $i^{th}$ ranked document $d$ that resulted from Query\#1 is equal to the count of relevant documents retrieved from the $1^{st}$ ranked to the $i^{th}$ ranked, divided by the rank of the  $i^{th}$ document related to the query.\\
 
 By applying equations (\ref{eq:recall-cal}) and (\ref{eq:precision-cal}) to the values of Table \ref{tab:rank1}, it resulted in the \textit{recall} and \textit{precision} calculation shown on Table \ref{tab:rank1cal}.\\
 
@@ -361,7 +361,7 @@ By applying equations (\ref{eq:recall-cal}) and (\ref{eq:precision-cal}) to the 
 \import{./}{table-2.tex}
 
 \subsubsection{Average Precision at 10}
-From Table \ref{tab:rank1cal} the Average Precision for Query \#1 (APQ1) is:
+From Table \ref{tab:rank1cal}, the Average Precision for Query \#1 (APQ1) is:
 \begin{equation*}
 	APQ1 = (1.0 + 1.0 + 0.57 + 0.63 + 0.67 + 0.70) / 6
 \end{equation*}
@@ -392,7 +392,7 @@ Looking at Table \ref{tab:ndcg-at10-cal}:\\
 NDCG at 10 = 0.71
 
 \subsubsection{Reciprocal Ranking}
-According to \cite{CroftMetzlerStrohman}  \textit{reciprocal rank} ``is defined as the reciprocal of the rank at which the first relevant document is retrieved'', then given that the first document of the query result is a relevant document, the relevant ranking \textit{RR} can be determined by:
+According to \cite{CroftMetzlerStrohman}  \textit{reciprocal rank} ``is defined as the reciprocal of the rank at which the first relevant document is retrieved''. The first document of the query result is a relevant document. Then, the relevant ranking \textit{RR} can be determined by:
 \begin{equation*}
 RR = 1/1 = 1
 \end{equation*}
@@ -408,7 +408,7 @@ RR = 1/1 = 1
 For two queries in the CACM collection, generate two uninterpolated recall-precision graphs, a table of interpolated precision values at standard recall levels, and the average interpolated recall-precision graph.
 
 \subsection{Approach}
-In addition to query \#1, used on previous exercise, the second query is shown below:
+In addition to query \#1, used on the previous exercise, the second query is shown below:
 \begin{verbatim}
 <DOC>
 <DOCNO> 2 </DOCNO>
@@ -419,17 +419,17 @@ Pooch, U.
 \end{verbatim} 
 
 \vspace*{10pt} % Question
-A scale of 0 through 3 was used. Where 3 is the most relevant and 0 is not relevant. The following was the criteria used to determined the documents query result relevance:
+A scale of 0 through 3 was used. Where 3 is the most relevant and 0 is not relevant. The following was the criteria used to determine the document's query result relevance:
 \begin{itemize}
-\item If any authors created the document 3 points was awarded
-\item If any of the authors appeared in the body of the document 2 points were awarded
-\item If the document was related to any of the writing of the authors 1 point was  awarded
+\item If any authors created the document, 3 points was awarded
+\item If any of the authors appeared in the body of the document, 2 points were awarded
+\item If the document was related to any of the writing of the authors, 1 point was  awarded
 \item Any other condition 0 was awarded
 \end{itemize}
 
 \newpage
 \subsection{Solution}
-After placing the query \#2 in \textbf{Galago}, the 10 first results were analyzed for relevance.
+After placing query \#2 in \textbf{Galago}, the 10 first results were analyzed for relevance.
 
 \begin{center}
 \includegraphics[scale=.5]{images/galago-search2.png}
@@ -475,14 +475,14 @@ For some classification data set, compute estimates for $P(w|c)$ for all words
 $w$ using both the multiple-Bernoulli and multinomial models. Compare the multiple-Bernoulli estimates with the multinomial estimates. How do they differ? Do the estimates diverge more for certain types of terms?
 
 \subsection{Approach}
-The CACM collection was used to obtain the data set. No stop-words were used. In order to eliminate the stop-words the application from assignment \#2, \textit{zipf\_curve.py}, was used to determine the words containing the higher frequency. Then, the next 20 highest frequency terms were selected, without including any numbers or non-relevant words which may be part of the index. 
+The CACM collection was used to obtain the data set. No stopwords were used. In order to eliminate the stopwords, the application from assignment \#2, \textit{zipf\_curve.py}, was used to determine the words containing the higher frequency. The next 20 highest frequency terms were selected, without including any numbers or non-relevant words which may be part of the index. 
 
 \subsubsection{Data set Classification}
 Considering that the CACM collection is related to computer science, the classification selection for this exercise were: \textbf{hardware} and \textbf{software}.\\
 
-\subsubsection{Word list}
+\subsubsection{Word List}
 Table \ref{tab:word-sel} contains the list of the words used for this exercise. 
-An evaluation was made using \textbf{Galago} to determine 20 documents relevant to \textbf{hardware} as the set to classify the term appearance probability for which our word list is present. Similar approach was used to obtain 20 documents relevant to the classification for \textbf{software}.
+An evaluation was made using \textbf{Galago} to determine 20 documents relevant to \textbf{hardware} as the set to classify the term appearance probability for which our word list is present. A similar approach was used to obtain 20 documents relevant to the classification for \textbf{software}.
 
 \import{./}{table-11.tex}
 
@@ -493,7 +493,7 @@ Snippet information was used to consider if it was worthy to inspect the documen
 \subsubsection{Generating the Data}
 The \textbf{Python} script \textit{bernoulli-estimate.py} was developed to generate the data contained on Tables \ref{tab:bernoulli-estimate} and \ref{tab:multinomial-estimate}. The script read two files: \textit{hardware.txt} and \textit{software.txt}. Those files contain the documents in the collection considered related to a \textbf{hardware} and \textbf{software} query respectively for the training.  A dictionary variable \textit{word\_matrix} was passed as a parameter (line 178 of Listing \ref{listing:count-freq}) where the feature frequency is going to be stored. \\
 
-If a training document corresponded to a \textit{hardware} classification, then a column with a value of 'H' was added to the row.  This action was the only step needed to training the document instance as \textit{hardware}. The same was done for the \textit{software} training document classification. See lines 215-218
+If a training document corresponded to a \textit{hardware} classification, then a column with a value of 'H' was added to the row.  This action was the only step needed for training the document instance as \textit{hardware}. The same was done for the \textit{software} training document classification. See lines 215-218
 
 %--------------
 %  count terms
@@ -509,7 +509,7 @@ If a training document corresponded to a \textit{hardware} classification, then 
 {../bernoulli-estimate.py}
 %
 \vspace{5mm}
-Two functions were created to make the distinction while considering the presence of a term, used in the \textbf{multiple-bernoulli} method, or the frequency of the term, used in the \textit{multinomial} method. Looking at lines 152 through 155 on Listing listing:bernoulli-fucntion, we can notice the function removed the frequency and converted any value greater than zero equal to 1. The \textbf{multinomial} function accomplished the same job, but it considered the frequency of the term instead of only its presence. 
+Two functions were created to make the distinction while considering the presence of a term, used in the \textbf{multiple-bernoulli} method, or the frequency of the term, used in the \textit{multinomial} method. Looking at lines 152 through 155 on Listing \ref{listing:bernoulli-fucntion}, we can notice the function removed the frequency and converted any value greater than zero equal to 1. The \textbf{multinomial} function accomplished the same job, but it considered the frequency of the term instead of only its presence. 
 %--------------
 %  multiple-bernoulli
 %--------------
@@ -540,7 +540,7 @@ $P(w|c)$ for all words on Table \ref{tab:word-sel}, using \textbf{multiple-Berno
 P(w|c) = \frac{df_{w,c} + 1}{N_c + 1}
 \end{equation}
 
-Where $df_{w,c}$ refers to the number of training documents with class label $c$ in which term $w$ occurs, and $N_c$ is the total number of training documents with class label $c$. Knowing that 20 training documents were used for each of the classification in this exercise:
+Where $df_{w,c}$ refers to the number of training documents with class label $c$ in which term $w$ occurs, and $N_c$ is the total number of training documents with class label $c$. Knowing that 20 training documents were used for each of the classifications in this exercise:
 \begin{equation*}
 N_{hardware} = 20
 \end{equation*}
@@ -556,7 +556,7 @@ $P(w|c)$ for all words on Table \ref{tab:word-sel}, using \textbf{multinomial} m
 P(w|c) = \frac{tf_{w,c} + 1}{|c| + |\mednu|}
 \end{equation}
 
-Where $tf_{w,c}$ refers to the number of times that term $w$ occurs in document $d$, $|c|$ is the total number of terms that occur in training documents with class label $c$. $|\mednu|$ is the number of features (20 words in our case) considered to classify the document. After scanning the collection for the selected training document, the following $|c|$ values resulted to provide inputs for equation (\ref{eq:muiltinomial}):
+Where $tf_{w,c}$ refers to the number of times that term $w$ occurs in document $d$, $|c|$ is the total number of terms that occur in training documents with class label $c$. $|\mednu|$ is the number of features (20 words in our case) considered to classify the document. After scanning the collection for the selected training document, the following $|c|$ values resulted to provide input for equation (\ref{eq:muiltinomial}):
 
 \begin{equation*}
 |c_{hardware}| = 190
@@ -577,10 +577,10 @@ and,
 \import{./}{table-13.tex}
 
 \subsubsection{Multiple-Bernoulli vs Multinomial Estimates Comparison}
-Table \ref{tab:bernoulli-estimate} and Table \ref{tab:multinomial-estimate} yielded the data to the plot on Fig \ref{fig:probability-estimate},, the probability estimates for the \textit{Multiple-Bernoulli} and \textit{Mutinomial} model. As equation(\ref{eq:muiltinomial}) suggests, the probabilities estimates in the \textit{Multinomial} model are going to generate a much smaller value, since in comparison with the \textit{Bernoulli} model, the denominator in equation (\ref{eq:muiltinomial}) is greater than in equation (\ref{fig:probability-estimate}).\\
-Although, here we are not trying to calculate the \textit{information gain} of the features for this data set, the graph can give us some information which can provide us with some insight. For example, there are various points in the graph which pairs intercept.  In other words, both variables have the same probability estimate. The result for the \textit{Bernoulli} estimate (red and orange curves) shows that variables $\{7, 9, 10, 11, 16, 19\}$ have the same values. The values of those features are: \{system, problem, number, processing, languages, matrix\} respectively. \\
-In the other hand, the \textit{Multinomial} model result does not have a single value which probability estimate is exactly the same. There are some instances where the probability appear to converge, but there still a very small percentage where a distinction could be made. According to the textbook \cite{CroftMetzlerStrohman}: ``in practice, the multinomial model has been shown to consistently outperform the multiple-Bernoulli model'', perhaps the reason for that is that we can make use of more features in the \textit{multinomial} model, in contrast with the \textit{multiple-Bernoulli} where in our case the quantity of variable with equal estimate will make more difficult to make an accurate document classification.\\
-However, about the same number of features (in our case the vairables $\{1, 9, 14, 19, 20\}$) in the \textit{multinomial} model had an estimate delta close to zero. A common denominator in these two sets are $\{9, 19\}$ (problem and languages). It makes prefect sense that these two words do not appear add more information to distinguish or classify if a document is related to \textbf{hardware} or \textbf{software}. Looking at Table \ref{tab:bernoulli-estimate}, the word \textit{matrix} does not appear in any of the searched documents, and \textit{problem} is such a generic word that probably could be use in the ACMC collection.\\
+Table \ref{tab:bernoulli-estimate} and Table \ref{tab:multinomial-estimate} yielded the data to plot on Fig \ref{fig:probability-estimate}, the probability estimates for the \textit{Multiple-Bernoulli} and \textit{Mutinomial} models. As equation(\ref{eq:muiltinomial}) suggests, the probability estimates in the \textit{Multinomial} model are going to generate a much smaller value since in comparison with the \textit{Bernoulli} model, the denominator in equation (\ref{eq:muiltinomial}) is greater than in equation (\ref{fig:probability-estimate}).\\
+Although, we are not trying to calculate the \textit{information gain} of the features for this data set, the graph can give us some information which can provide us with some insight. For example, there are various points on the graph in which pairs intercept.  In other words, both variables have the same probability estimate. The result for the \textit{Bernoulli} estimate (red and orange curves) shows that variables $\{7, 9, 10, 11, 16, 19\}$ have the same values. The values of those features are: \{system, problem, number, processing, languages, matrix\} respectively. \\
+On the other hand, the \textit{Multinomial} model result does not have a single value in which the probability estimate is exactly the same. There are some instances where the probability appears to converge, but there is  still a very small percentage where a distinction could be made. According to the textbook \cite{CroftMetzlerStrohman}: ``in practice, the multinomial model has been shown to consistently outperform the multiple-Bernoulli model'', perhaps the reason for that is that we can make use of more features in the \textit{multinomial} model. In contrast, in the \textit{multiple-Bernoulli} model where the quantity of variable with equal estimate makes it more difficult to provide an accurate document classification.\\
+However, about the same number of features (in our case the vairables $\{1, 9, 14, 19, 20\}$) in the \textit{multinomial} model has an estimate delta close to zero. A common denominator in these two sets are $\{9, 19\}$ (problem and languages). It makes prefect sense that these two words do not appear to add more information to distinguish or classify if a document is related to \textbf{hardware} or \textbf{software}. Looking at Table \ref{tab:bernoulli-estimate}, the word \textit{matrix} does not appear in any of the searched documents, and \textit{problem} is such a generic word that it probably could be used in any topic of the ACMC collection.\\
 
 The \textbf{R} script used to create Fig \ref{fig:probability-estimate} was \textit{probability.R}
 \begin{figure}
@@ -609,7 +609,7 @@ cluster the points?
 \subsection{Approach}
 \textbf{R} includes the package \textit{cluster} which contains a solution to the five agglomerative cluster methods: \textit{Single linkage}, \textit{Complete linkage}, \textit{Average linkage}, \textit{Average group linkage} and \textit{Ward’s method}. The name of the script that plotted the cluster is \textit{agnes.R}. The package has a function (\textit{agnes}) that produces a dendrogram of the clustered points.\\
 
-In order to know how to group the dendrogram in \textit{k} number of cluster, \textbf{R} provides the function \textit{cutree} which divides the graph into \textit{k} partitions. A portion of the \textbf{R} scripts that performs this function is shown below:
+In order to know how to group the dendrogram in \textit{k} number of clusters, \textbf{R} provides the function \textit{cutree} which divides the graph into \textit{k} partitions. A portion of the \textbf{R} scripts that performs this function is shown below:
 
 \begin{verbatim}
 groups <- cutree(ag, k=5) # cut tree into 3 clusters
@@ -617,6 +617,17 @@ rect.hclust(H.fit, k=5, border="red")
 \end{verbatim}
 
 \subsection{Solution}
+\subsubsection{Manual Clustering of Points}
+Fig \ref{fig:personal} shows in highlighted green the way I would cluster the points with $k=3$. This is the same result shown for the five agglomerative methods.
+
+\begin{figure}[h]
+\caption{Manual Point Clustering with K=3}
+\label{fig:personal}
+\begin{center}
+\includegraphics[scale=.30]{images/manual-cluster.pdf}
+\end{center}
+\end{figure}
+
 \subsubsection{Single Linkage Method}
 For this method \textbf{R} produced the following result:
 \begin{verbatim}
@@ -642,7 +653,7 @@ Available components:
 \end{figure}
 
 \newpage
-\subsubsection{Complete linkage Method}
+\subsubsection{Complete Linkage Method}
 For this method \textbf{R} produced the following result:
 
 \begin{verbatim}
@@ -668,7 +679,7 @@ Available components:
 \end{figure}
 
 \newpage
-\subsubsection{Average linkage}
+\subsubsection{Average Linkage}
 For this method \textbf{R} produced the following result:
 
 \begin{verbatim}
@@ -719,7 +730,7 @@ Available components:
 \end{figure}
 
 \newpage
-\subsubsection{Ward’s method}
+\subsubsection{Ward’s Method}
 For this method \textbf{R} produced the following result:
 
 \begin{verbatim}
@@ -745,23 +756,12 @@ Available components:
 \end{figure}
 
 \subsubsection{Comparison of All Agglomerative Methods}
-All five methods resulted in similar cluster of two-dimensional set instances with a $k=3$. However, they differ in the \textit{agglomerative coefficient} which indicates the number of observations required to cluster the set. \\
+All five methods resulted in similar clusters of two-dimensional set instances with a $k=3$. However, they differ in the \textit{agglomerative coefficient} which indicates the number of observations required to cluster the set. \\
 
 The \textit{group average linkage} and \textit{complete linkage} have similar agglomerative coefficient, \textbf{0.845} and \textbf{0.855} respectively. Looking at their graphs, they appear to be very similar.\\
 
 The \textit{Single Linkage} has the smallest agglomerative coefficient \textit{0.39}.
 
-\newpage
-\subsubsection{Manual Clustering of Points}
-I plotted the data set provided for this exercise. The graph on Fig \ref{fig:personal} shows in highlighted green the way I would cluster the points with $k=3$. This is the same result shown for the five agglomerative methods.
-
-\begin{figure}[h]
-\caption{Manual Point Clustering with K=3}
-\label{fig:personal}
-\begin{center}
-\includegraphics[scale=.30]{images/manual-cluster.pdf}
-\end{center}
-\end{figure}
 \end{homeworkProblem}
 
 %----------------------------------------------------------------------------------------
